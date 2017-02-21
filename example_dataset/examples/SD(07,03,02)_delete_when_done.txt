@@ -1,0 +1,10 @@
+This is a running tally of supercharacter theories for the purpose of server-run large examples.  This file may be deleted at the conclusion of the script.
+Group: SD(07,03,02)
+Supercharacter Theories: 
+1. {{0}, {1}, {2}, {3}, {4}}
+2. {{0}, {1}, {2}, {3, 4}}
+3. {{0}, {1, 2}, {3}, {4}}
+4. {{0}, {1, 2}, {3, 4}}
+5. {{0}, {1, 2, 3, 4}}
+The script is now finished.  Above are all of the supercharacter theories.
+Total running time: 0.301928043365 seconds.

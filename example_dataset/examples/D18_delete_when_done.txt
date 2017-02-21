@@ -1,0 +1,10 @@
+This is a running tally of supercharacter theories for the purpose of server-run large examples.  This file may be deleted at the conclusion of the script.
+Group: D18
+Supercharacter Theories: 
+1. {{0}, {1}, {2}, {3}, {4}, {5}}
+2. {{0}, {1}, {2}, {3, 4, 5}}
+3. {{0}, {1}, {2, 3, 4, 5}}
+4. {{0}, {1, 2}, {3, 4, 5}}
+5. {{0}, {1, 2, 3, 4, 5}}
+The script is now finished.  Above are all of the supercharacter theories.
+Total running time: 0.386344909668 seconds.

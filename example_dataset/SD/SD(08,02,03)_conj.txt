@@ -1,0 +1,25 @@
+g = (1, 2, 4, 6, 8, 7, 5, 3)
+h = (2, 6)(3, 7)(4, 5)
+Conjugacy Classes of group G
+----------------------------
+[1]     Order 1       Length 1      
+Rep Id(G)
+
+[2]     Order 2       Length 1      
+Rep (1, 8)(2, 7)(3, 6)(4, 5)
+
+[3]     Order 2       Length 4      
+Rep (1, 8)(2, 3)(6, 7)
+
+[4]     Order 4       Length 2      
+Rep (1, 4, 8, 5)(2, 6, 7, 3)
+
+[5]     Order 4       Length 4      
+Rep (1, 6, 8, 3)(2, 5, 7, 4)
+
+[6]     Order 8       Length 2      
+Rep (1, 2, 4, 6, 8, 7, 5, 3)
+
+[7]     Order 8       Length 2      
+Rep (1, 7, 4, 3, 8, 2, 5, 6)
+

@@ -1,0 +1,15 @@
+This is a running tally of supercharacter theories for the purpose of server-run large examples.  This file may be deleted at the conclusion of the script.
+Group: D50
+Supercharacter Theories: 
+1. {{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}}
+2. {{0}, {1}, {2}, {3}, {4, 7, 9, 11, 13}, {5, 6, 8, 10, 12}}
+3. {{0}, {1}, {2}, {3}, {4, 5, 6, 7, 8, 9, 10, 11, 12, 13}}
+4. {{0}, {1}, {2, 3}, {4, 5}, {6, 9}, {7, 10}, {8, 13}, {11, 12}}
+5. {{0}, {1}, {2, 3}, {4, 7, 9, 11, 13}, {5, 6, 8, 10, 12}}
+6. {{0}, {1}, {2, 3}, {4, 5, 6, 7, 8, 9, 10, 11, 12, 13}}
+7. {{0}, {1}, {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}}
+8. {{0}, {1, 2, 3}, {4, 7, 9, 11, 13}, {5, 6, 8, 10, 12}}
+9. {{0}, {1, 2, 3}, {4, 5, 6, 7, 8, 9, 10, 11, 12, 13}}
+10. {{0}, {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}}
+The script is now finished.  Above are all of the supercharacter theories.
+Total running time: 159.349811077 seconds.

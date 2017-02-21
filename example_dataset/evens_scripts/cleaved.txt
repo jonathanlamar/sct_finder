@@ -1,0 +1,1512 @@
+Cleaved supercharacter theories
+
+D08
+
+K_1:	{{e}, {r^2}, {s, r^1}, {sr}}
+X_1:	{{1}, {mu_1}, {mu_0, lambda}, {chi_1}}
+
+K_2:	{{e}, {r^2, sr}, {s, r^1}}
+X_2:	{{1}, {mu_1}, {mu_0, lambda, chi_1}}
+
+K_4:	{{e}, {r^2}, {s}, {sr, r^1}}
+X_4:	{{1}, {mu_1, lambda}, {mu_0}, {chi_1}}
+
+K_7:	{{e}, {r^2, s}, {sr, r^1}}
+X_7:	{{1}, {mu_1, lambda, chi_1}, {mu_0}}
+
+D12
+
+K_6:	{{e}, {r^3, sr, r^1}, {s}, {r^2}}
+X_6:	{{1}, {lambda, mu_1}, {mu_0}, {chi_2, chi_1}}
+
+K_7:	{{e}, {r^3, s, r^1}, {sr}, {r^2}}
+X_7:	{{1}, {lambda, mu_0}, {mu_1}, {chi_2, chi_1}}
+
+K_8:	{{e}, {r^3}, {s, r^1}, {sr, r^2}}
+X_8:	{{1}, {lambda, chi_2}, {mu_1}, {mu_0, chi_1}}
+
+K_13:	{{e}, {r^3, s, r^1}, {sr, r^2}}
+X_13:	{{1}, {lambda, mu_0, chi_2, chi_1}, {mu_1}}
+
+K_9:	{{e}, {r^3}, {s, r^2}, {sr, r^1}}
+X_9:	{{1}, {lambda, chi_2}, {mu_1, chi_1}, {mu_0}}
+
+K_12:	{{e}, {r^3, sr, r^1}, {s, r^2}}
+X_12:	{{1}, {lambda, mu_1, chi_2, chi_1}, {mu_0}}
+
+D16
+
+K_3:	{{e}, {r^4}, {s, r^1, r^3}, {sr}, {r^2}}
+X_3:	{{1}, {mu_1}, {mu_0, lambda}, {chi_2}, {chi_1, chi_3}}
+
+K_4:	{{e}, {r^4, r^2}, {s, r^1, r^3}, {sr}}
+X_4:	{{1}, {mu_1}, {mu_0, lambda}, {chi_2, chi_1, chi_3}}
+
+K_5:	{{e}, {r^4}, {s, r^1, r^3}, {sr, r^2}}
+X_5:	{{1}, {mu_1}, {mu_0, lambda, chi_2}, {chi_1, chi_3}}
+
+K_6:	{{e}, {r^4, sr, r^2}, {s, r^1, r^3}}
+X_6:	{{1}, {mu_1}, {mu_0, lambda, chi_2, chi_1, chi_3}}
+
+K_10:	{{e}, {r^4}, {s}, {sr, r^1, r^3}, {r^2}}
+X_10:	{{1}, {mu_1, lambda}, {mu_0}, {chi_2}, {chi_1, chi_3}}
+
+K_11:	{{e}, {r^4, r^2}, {s}, {sr, r^1, r^3}}
+X_11:	{{1}, {mu_1, lambda}, {mu_0}, {chi_2, chi_1, chi_3}}
+
+K_15:	{{e}, {r^4}, {s, r^2}, {sr, r^1, r^3}}
+X_15:	{{1}, {mu_1, lambda, chi_2}, {mu_0}, {chi_1, chi_3}}
+
+K_18:	{{e}, {r^4, s, r^2}, {sr, r^1, r^3}}
+X_18:	{{1}, {mu_1, lambda, chi_2, chi_1, chi_3}, {mu_0}}
+
+D20
+
+K_11:	{{e}, {r^5, sr, r^1, r^3}, {s}, {r^2}, {r^4}}
+X_11:	{{1}, {lambda, mu_1}, {mu_0}, {chi_1, chi_4}, {chi_2, chi_3}}
+
+K_13:	{{e}, {r^5, s, r^1, r^3}, {sr}, {r^2}, {r^4}}
+X_13:	{{1}, {lambda, mu_0}, {mu_1}, {chi_1, chi_4}, {chi_2, chi_3}}
+
+K_12:	{{e}, {r^5, sr, r^1, r^3}, {s}, {r^2, r^4}}
+X_12:	{{1}, {lambda, mu_1}, {mu_0}, {chi_1, chi_4, chi_2, chi_3}}
+
+K_14:	{{e}, {r^5, s, r^1, r^3}, {sr}, {r^2, r^4}}
+X_14:	{{1}, {lambda, mu_0}, {mu_1}, {chi_1, chi_4, chi_2, chi_3}}
+
+K_17:	{{e}, {r^5}, {s, r^1, r^3}, {sr, r^2, r^4}}
+X_17:	{{1}, {lambda, chi_4, chi_2}, {mu_1}, {mu_0, chi_1, chi_3}}
+
+K_21:	{{e}, {r^5, s, r^1, r^3}, {sr, r^2, r^4}}
+X_21:	{{1}, {lambda, mu_0, chi_1, chi_4, chi_2, chi_3}, {mu_1}}
+
+K_18:	{{e}, {r^5}, {s, r^2, r^4}, {sr, r^1, r^3}}
+X_18:	{{1}, {lambda, chi_4, chi_2}, {mu_1, chi_1, chi_3}, {mu_0}}
+
+K_20:	{{e}, {r^5, sr, r^1, r^3}, {s, r^2, r^4}}
+X_20:	{{1}, {lambda, mu_1, chi_1, chi_4, chi_2, chi_3}, {mu_0}}
+
+D24
+
+K_28:	{{e}, {r^6}, {s, r^4, r^2}, {r^5, sr, r^1}, {r^3}}
+X_28:	{{1}, {lambda, chi_4}, {mu_0}, {mu_1, chi_2}, {chi_5, chi_3, chi_1}}
+
+K_29:	{{e}, {r^6}, {r^5, s, r^1}, {sr, r^4, r^2}, {r^3}}
+X_29:	{{1}, {lambda, chi_4}, {mu_0, chi_2}, {mu_1}, {chi_5, chi_3, chi_1}}
+
+K_20:	{{e}, {r^6}, {r^5, s, r^3, r^1}, {sr}, {r^4}, {r^2}}
+X_20:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4, chi_2}, {chi_3}, {chi_5, chi_1}}
+
+K_21:	{{e}, {r^6}, {r^5, s, r^3, r^1}, {sr}, {r^4, r^2}}
+X_21:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4, chi_2}, {chi_5, chi_3, chi_1}}
+
+K_39:	{{e}, {r^6}, {r^5, s, r^3, r^1}, {sr, r^4, r^2}}
+X_39:	{{1}, {lambda, mu_0, chi_4, chi_2}, {mu_1}, {chi_5, chi_3, chi_1}}
+
+K_22:	{{e}, {r^6, r^2}, {r^5, s, r^3, r^1}, {sr}, {r^4}}
+X_22:	{{1}, {lambda, mu_0}, {mu_1}, {chi_5, chi_4, chi_2, chi_1}, {chi_3}}
+
+K_23:	{{e}, {r^6, r^4, r^2}, {r^5, s, r^3, r^1}, {sr}}
+X_23:	{{1}, {lambda, mu_0}, {mu_1}, {chi_5, chi_4, chi_2, chi_3, chi_1}}
+
+K_36:	{{e}, {r^6, sr, r^2}, {r^5, s, r^3, r^1}, {r^4}}
+X_36:	{{1}, {lambda, mu_0, chi_3}, {mu_1}, {chi_5, chi_4, chi_2, chi_1}}
+
+K_42:	{{e}, {r^6, sr, r^4, r^2}, {r^5, s, r^3, r^1}}
+X_42:	{{1}, {lambda, mu_0, chi_4, chi_2, chi_3, chi_1, chi_5}, {mu_1}}
+
+K_24:	{{e}, {r^6}, {s}, {r^5, sr, r^3, r^1}, {r^4}, {r^2}}
+X_24:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4, chi_2}, {chi_3}, {chi_5, chi_1}}
+
+K_25:	{{e}, {r^6}, {s}, {r^5, sr, r^3, r^1}, {r^4, r^2}}
+X_25:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4, chi_2}, {chi_5, chi_3, chi_1}}
+
+K_40:	{{e}, {r^6}, {s, r^4, r^2}, {r^5, sr, r^3, r^1}}
+X_40:	{{1}, {lambda, mu_1, chi_4, chi_2}, {mu_0}, {chi_5, chi_3, chi_1}}
+
+K_26:	{{e}, {r^6, r^2}, {s}, {r^5, sr, r^3, r^1}, {r^4}}
+X_26:	{{1}, {lambda, mu_1}, {mu_0}, {chi_5, chi_4, chi_2, chi_1}, {chi_3}}
+
+K_27:	{{e}, {r^6, r^4, r^2}, {s}, {r^5, sr, r^3, r^1}}
+X_27:	{{1}, {lambda, mu_1}, {mu_0}, {chi_5, chi_4, chi_2, chi_3, chi_1}}
+
+K_37:	{{e}, {r^6, s, r^2}, {r^5, sr, r^3, r^1}, {r^4}}
+X_37:	{{1}, {lambda, mu_1, chi_3}, {mu_0}, {chi_5, chi_4, chi_2, chi_1}}
+
+K_43:	{{e}, {r^6, s, r^4, r^2}, {r^5, sr, r^3, r^1}}
+X_43:	{{1}, {lambda, mu_1, chi_4, chi_2, chi_3, chi_1, chi_5}, {mu_0}}
+
+D28
+
+K_4:	{{e}, {r^3, r^7, s, r^1, r^5}, {sr}, {r^2}, {r^6}, {r^4}}
+X_4:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_2}, {chi_3, chi_4}, {chi_1, chi_6}}
+
+K_8:	{{e}, {r^3, r^7, sr, r^1, r^5}, {s}, {r^2}, {r^6}, {r^4}}
+X_8:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_2}, {chi_3, chi_4}, {chi_1, chi_6}}
+
+K_5:	{{e}, {r^3, r^7, s, r^1, r^5}, {sr}, {r^2, r^6, r^4}}
+X_5:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_4, chi_6, chi_2, chi_1, chi_3}}
+
+K_9:	{{e}, {r^3, r^7, sr, r^1, r^5}, {s}, {r^2, r^6, r^4}}
+X_9:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_4, chi_6, chi_2, chi_1, chi_3}}
+
+K_6:	{{e}, {r^7}, {r^3, r^5, s, r^1}, {sr, r^2, r^6, r^4}}
+X_6:	{{1}, {mu_1}, {lambda, chi_4, chi_6, chi_2}, {chi_1, chi_3, mu_0, chi_5}}
+
+K_7:	{{e}, {r^3, r^7, s, r^1, r^5}, {sr, r^2, r^6, r^4}}
+X_7:	{{1}, {mu_1}, {lambda, mu_0, chi_5, chi_4, chi_6, chi_2, chi_1, chi_3}}
+
+K_16:	{{e}, {r^7}, {s, r^2, r^6, r^4}, {r^3, r^5, sr, r^1}}
+X_16:	{{1}, {chi_1, mu_1, chi_5, chi_3}, {lambda, chi_4, chi_6, chi_2}, {mu_0}}
+
+K_20:	{{e}, {r^3, r^7, sr, r^1, r^5}, {s, r^2, r^6, r^4}}
+X_20:	{{1}, {mu_1, lambda, chi_5, chi_4, chi_6, chi_2, chi_1, chi_3}, {mu_0}}
+
+D32
+
+K_20:	{{e}, {r^8}, {r^3, r^5, s, r^7, r^1}, {sr}, {r^4}, {r^2}, {r^6}}
+X_20:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4}, {chi_6, chi_2}, {chi_3, chi_5}, {chi_7, chi_1}}
+
+K_21:	{{e}, {r^8}, {r^3, r^5, s, r^7, r^1}, {sr}, {r^4}, {r^2, r^6}}
+X_21:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4}, {chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_22:	{{e}, {r^8, r^4}, {r^3, r^5, s, r^7, r^1}, {sr}, {r^2, r^6}}
+X_22:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4}, {chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_23:	{{e}, {r^8}, {r^3, r^5, s, r^7, r^1}, {sr}, {r^4, r^2, r^6}}
+X_23:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4, chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_24:	{{e}, {r^8, r^4, r^2, r^6}, {r^3, r^5, s, r^7, r^1}, {sr}}
+X_24:	{{1}, {lambda, mu_0}, {mu_1}, {chi_4, chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_35:	{{e}, {r^8}, {r^3, r^5, s, r^7, r^1}, {sr, r^2, r^6}, {r^4}}
+X_35:	{{1}, {lambda, mu_0, chi_4}, {mu_1}, {chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_36:	{{e}, {r^8, r^4}, {r^3, r^5, s, r^7, r^1}, {sr, r^2, r^6}}
+X_36:	{{1}, {lambda, mu_0, chi_4}, {mu_1}, {chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_41:	{{e}, {r^8}, {r^3, r^5, s, r^7, r^1}, {sr, r^4, r^2, r^6}}
+X_41:	{{1}, {lambda, mu_0, chi_4, chi_6, chi_2}, {mu_1}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_44:	{{e}, {r^8, sr, r^4, r^2, r^6}, {r^3, r^5, s, r^7, r^1}}
+X_44:	{{1}, {lambda, mu_0, chi_4, chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}, {mu_1}}
+
+K_25:	{{e}, {r^8}, {s}, {r^3, r^5, r^7, sr, r^1}, {r^4}, {r^2}, {r^6}}
+X_25:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4}, {chi_6, chi_2}, {chi_3, chi_5}, {chi_7, chi_1}}
+
+K_26:	{{e}, {r^8}, {s}, {r^3, r^5, r^7, sr, r^1}, {r^4}, {r^2, r^6}}
+X_26:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4}, {chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_27:	{{e}, {r^8, r^4}, {s}, {r^3, r^5, r^7, sr, r^1}, {r^2, r^6}}
+X_27:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4}, {chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_28:	{{e}, {r^8}, {s}, {r^3, r^5, r^7, sr, r^1}, {r^4, r^2, r^6}}
+X_28:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4, chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_29:	{{e}, {r^8, r^4, r^2, r^6}, {s}, {r^3, r^5, r^7, sr, r^1}}
+X_29:	{{1}, {lambda, mu_1}, {mu_0}, {chi_4, chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_37:	{{e}, {r^8}, {s, r^2, r^6}, {r^3, r^5, r^7, sr, r^1}, {r^4}}
+X_37:	{{1}, {lambda, mu_1, chi_4}, {mu_0}, {chi_6, chi_2}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_38:	{{e}, {r^8, r^4}, {s, r^2, r^6}, {r^3, r^5, r^7, sr, r^1}}
+X_38:	{{1}, {lambda, mu_1, chi_4}, {mu_0}, {chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}}
+
+K_42:	{{e}, {r^8}, {s, r^4, r^2, r^6}, {r^3, r^5, r^7, sr, r^1}}
+X_42:	{{1}, {lambda, mu_1, chi_4, chi_6, chi_2}, {mu_0}, {chi_3, chi_7, chi_1, chi_5}}
+
+K_45:	{{e}, {r^8, s, r^4, r^2, r^6}, {r^3, r^5, r^7, sr, r^1}}
+X_45:	{{1}, {lambda, mu_1, chi_4, chi_6, chi_2, chi_5, chi_3, chi_7, chi_1}, {mu_0}}
+
+D36
+
+K_8:	{{e}, {r^9, s, r^3, r^1, r^5, r^7}, {sr}, {r^6}, {r^2}, {r^4}, {r^8}}
+X_8:	{{1}, {mu_1}, {mu_0, lambda}, {chi_3, chi_6}, {chi_5, chi_4}, {chi_2, chi_7}, {chi_8, chi_1}}
+
+K_24:	{{e}, {r^9, sr, r^3, r^1, r^5, r^7}, {s}, {r^6}, {r^2}, {r^4}, {r^8}}
+X_24:	{{1}, {mu_1, lambda}, {mu_0}, {chi_3, chi_6}, {chi_5, chi_4}, {chi_2, chi_7}, {chi_8, chi_1}}
+
+K_9:	{{e}, {r^9, s, r^3, r^1, r^5, r^7}, {sr}, {r^6}, {r^8, r^2, r^4}}
+X_9:	{{1}, {mu_1}, {mu_0, lambda}, {chi_3, chi_6}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_25:	{{e}, {r^9, sr, r^3, r^1, r^5, r^7}, {s}, {r^6}, {r^8, r^2, r^4}}
+X_25:	{{1}, {mu_1, lambda}, {mu_0}, {chi_3, chi_6}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_10:	{{e}, {r^9, s, r^3, r^1, r^5, r^7}, {sr}, {r^8, r^6, r^2, r^4}}
+X_10:	{{1}, {mu_1}, {mu_0, lambda}, {chi_3, chi_6, chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_26:	{{e}, {r^9, sr, r^3, r^1, r^5, r^7}, {s}, {r^8, r^6, r^2, r^4}}
+X_26:	{{1}, {mu_1, lambda}, {mu_0}, {chi_3, chi_6, chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_11:	{{e}, {r^9}, {r^1, s, r^7, r^5}, {r^8, sr, r^2, r^4}, {r^6}, {r^3}}
+X_11:	{{1}, {mu_1}, {mu_0, chi_3}, {lambda, chi_6}, {chi_7, chi_1, chi_5}, {chi_2, chi_8, chi_4}}
+
+K_12:	{{e}, {r^9, r^3}, {r^1, s, r^7, r^5}, {r^8, sr, r^2, r^4}, {r^6}}
+X_12:	{{1}, {mu_1}, {mu_0, chi_3}, {lambda, chi_6}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_13:	{{e}, {r^9, s, r^3, r^1, r^5, r^7}, {r^8, sr, r^2, r^4}, {r^6}}
+X_13:	{{1}, {mu_1}, {mu_0, lambda, chi_3, chi_6}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_14:	{{e}, {r^9}, {r^1, s, r^7, r^5, r^3}, {r^8, sr, r^6, r^2, r^4}}
+X_14:	{{1}, {mu_1}, {mu_0, chi_1, chi_3, chi_7, chi_5}, {chi_2, chi_8, lambda, chi_6, chi_4}}
+
+K_15:	{{e}, {r^9, s, r^3, r^1, r^5, r^7}, {r^8, sr, r^6, r^2, r^4}}
+X_15:	{{1}, {mu_1}, {mu_0, lambda, chi_3, chi_6, chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_27:	{{e}, {r^9}, {r^8, s, r^2, r^4}, {sr, r^1, r^5, r^7}, {r^6}, {r^3}}
+X_27:	{{1}, {mu_1, chi_3}, {mu_0}, {lambda, chi_6}, {chi_7, chi_1, chi_5}, {chi_2, chi_8, chi_4}}
+
+K_28:	{{e}, {r^9, r^3}, {r^8, s, r^2, r^4}, {sr, r^1, r^5, r^7}, {r^6}}
+X_28:	{{1}, {mu_1, chi_3}, {mu_0}, {lambda, chi_6}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_38:	{{e}, {r^9, sr, r^3, r^1, r^5, r^7}, {r^8, s, r^2, r^4}, {r^6}}
+X_38:	{{1}, {mu_1, lambda, chi_3, chi_6}, {mu_0}, {chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}}
+
+K_40:	{{e}, {r^9}, {r^8, s, r^6, r^2, r^4}, {sr, r^1, r^5, r^7, r^3}}
+X_40:	{{1}, {mu_1, chi_7, chi_1, chi_3, chi_5}, {mu_0}, {chi_2, chi_8, lambda, chi_6, chi_4}}
+
+K_49:	{{e}, {r^9, sr, r^3, r^1, r^5, r^7}, {r^8, s, r^6, r^2, r^4}}
+X_49:	{{1}, {mu_1, lambda, chi_3, chi_6, chi_5, chi_4, chi_2, chi_8, chi_7, chi_1}, {mu_0}}
+
+D40
+
+K_12:	{{e}, {r^10}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^4}, {r^8}, {r^2}, {r^6}}
+X_12:	{{1}, {mu_1}, {mu_0, lambda}, {chi_5}, {chi_4, chi_6}, {chi_8, chi_2}, {chi_3, chi_7}, {chi_9, chi_1}}
+
+K_14:	{{e}, {r^6, r^10, r^2}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^4}, {r^8}}
+X_14:	{{1}, {mu_1}, {mu_0, lambda}, {chi_5}, {chi_9, chi_1, chi_4, chi_6}, {chi_8, chi_3, chi_7, chi_2}}
+
+K_19:	{{e}, {r^6, r^10, sr, r^2}, {s, r^5, r^1, r^3, r^7, r^9}, {r^4}, {r^8}}
+X_19:	{{1}, {mu_1}, {mu_0, lambda, chi_5}, {chi_9, chi_1, chi_4, chi_6}, {chi_8, chi_3, chi_7, chi_2}}
+
+K_36:	{{e}, {r^10}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4}, {r^8}, {r^2}, {r^6}}
+X_36:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5}, {chi_4, chi_6}, {chi_8, chi_2}, {chi_3, chi_7}, {chi_9, chi_1}}
+
+K_38:	{{e}, {r^6, r^10, r^2}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4}, {r^8}}
+X_38:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5}, {chi_9, chi_1, chi_4, chi_6}, {chi_8, chi_3, chi_7, chi_2}}
+
+K_54:	{{e}, {r^6, r^10, s, r^2}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4}, {r^8}}
+X_54:	{{1}, {mu_1, lambda, chi_5}, {mu_0}, {chi_9, chi_1, chi_4, chi_6}, {chi_8, chi_3, chi_7, chi_2}}
+
+K_13:	{{e}, {r^10}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^4, r^8}, {r^6, r^2}}
+X_13:	{{1}, {mu_1}, {mu_0, lambda}, {chi_5}, {chi_8, chi_4, chi_2, chi_6}, {chi_3, chi_9, chi_7, chi_1}}
+
+K_15:	{{e}, {r^6, r^10, r^2}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^4, r^8}}
+X_15:	{{1}, {mu_1}, {mu_0, lambda}, {chi_5}, {chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_20:	{{e}, {r^6, r^10, sr, r^2}, {s, r^5, r^1, r^3, r^7, r^9}, {r^4, r^8}}
+X_20:	{{1}, {mu_1}, {mu_0, lambda, chi_5}, {chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_37:	{{e}, {r^10}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4, r^8}, {r^6, r^2}}
+X_37:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5}, {chi_8, chi_4, chi_2, chi_6}, {chi_3, chi_9, chi_7, chi_1}}
+
+K_39:	{{e}, {r^6, r^10, r^2}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4, r^8}}
+X_39:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5}, {chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_55:	{{e}, {r^6, r^10, s, r^2}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^4, r^8}}
+X_55:	{{1}, {mu_1, lambda, chi_5}, {mu_0}, {chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_21:	{{e}, {r^10}, {r^1, s, r^7, r^9, r^3}, {r^6, sr, r^4, r^8, r^2}, {r^5}}
+X_21:	{{1}, {mu_1}, {mu_0, chi_2, chi_6}, {chi_8, lambda, chi_4}, {chi_3, chi_9, chi_7, chi_5, chi_1}}
+
+K_56:	{{e}, {r^10}, {r^6, s, r^4, r^8, r^2}, {sr, r^1, r^3, r^7, r^9}, {r^5}}
+X_56:	{{1}, {mu_1, chi_2, chi_6}, {mu_0}, {chi_8, lambda, chi_4}, {chi_3, chi_9, chi_7, chi_5, chi_1}}
+
+K_16:	{{e}, {r^10}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^6, r^4}, {r^8, r^2}}
+X_16:	{{1}, {mu_1}, {mu_0, lambda}, {chi_3, chi_9, chi_7, chi_5, chi_1}, {chi_4, chi_6}, {chi_8, chi_2}}
+
+K_17:	{{e}, {r^10}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}, {r^6, r^4, r^8, r^2}}
+X_17:	{{1}, {mu_1}, {mu_0, lambda}, {chi_3, chi_9, chi_7, chi_5, chi_1}, {chi_8, chi_4, chi_2, chi_6}}
+
+K_18:	{{e}, {r^6, r^10, r^4, r^8, r^2}, {s, r^5, r^1, r^3, r^7, r^9}, {sr}}
+X_18:	{{1}, {mu_1}, {mu_0, lambda}, {chi_5, chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_22:	{{e}, {r^10}, {s, r^5, r^1, r^3, r^7, r^9}, {r^6, sr, r^4, r^8, r^2}}
+X_22:	{{1}, {mu_1}, {mu_0, lambda, chi_4, chi_2, chi_6, chi_8}, {chi_3, chi_9, chi_7, chi_5, chi_1}}
+
+K_23:	{{e}, {r^10, sr, r^4, r^8, r^2, r^6}, {s, r^5, r^1, r^3, r^7, r^9}}
+X_23:	{{1}, {mu_1}, {mu_0, lambda, chi_5, chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_40:	{{e}, {r^10}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^6, r^4}, {r^8, r^2}}
+X_40:	{{1}, {mu_1, lambda}, {mu_0}, {chi_3, chi_9, chi_7, chi_5, chi_1}, {chi_4, chi_6}, {chi_8, chi_2}}
+
+K_41:	{{e}, {r^10}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}, {r^6, r^4, r^8, r^2}}
+X_41:	{{1}, {mu_1, lambda}, {mu_0}, {chi_3, chi_9, chi_7, chi_5, chi_1}, {chi_8, chi_4, chi_2, chi_6}}
+
+K_42:	{{e}, {r^6, r^10, r^4, r^8, r^2}, {s}, {sr, r^5, r^1, r^3, r^7, r^9}}
+X_42:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}}
+
+K_63:	{{e}, {r^10}, {r^6, s, r^4, r^8, r^2}, {sr, r^5, r^1, r^3, r^7, r^9}}
+X_63:	{{1}, {mu_1, lambda, chi_4, chi_2, chi_6, chi_8}, {mu_0}, {chi_3, chi_9, chi_7, chi_5, chi_1}}
+
+K_69:	{{e}, {r^10, s, r^4, r^8, r^2, r^6}, {sr, r^5, r^1, r^3, r^7, r^9}}
+X_69:	{{1}, {mu_1, lambda, chi_5, chi_4, chi_2, chi_6, chi_8, chi_3, chi_9, chi_7, chi_1}, {mu_0}}
+
+D44
+
+K_4:	{{e}, {r^11, s, r^1, r^3, r^5, r^7, r^9}, {sr}, {r^2}, {r^4}, {r^8}, {r^10}, {r^6}}
+X_4:	{{1}, {mu_1}, {mu_0, lambda}, {chi_9, chi_2}, {chi_5, chi_6}, {chi_7, chi_4}, {chi_3, chi_8}, {chi_10, chi_1}}
+
+K_12:	{{e}, {r^11, sr, r^1, r^3, r^5, r^7, r^9}, {s}, {r^2}, {r^4}, {r^8}, {r^10}, {r^6}}
+X_12:	{{1}, {mu_1, lambda}, {mu_0}, {chi_9, chi_2}, {chi_5, chi_6}, {chi_7, chi_4}, {chi_3, chi_8}, {chi_10, chi_1}}
+
+K_5:	{{e}, {r^11, s, r^1, r^3, r^5, r^7, r^9}, {sr}, {r^6, r^2, r^4, r^8, r^10}}
+X_5:	{{1}, {mu_1}, {mu_0, lambda}, {chi_2, chi_6, chi_4, chi_8, chi_10, chi_3, chi_1, chi_9, chi_5, chi_7}}
+
+K_13:	{{e}, {r^11, sr, r^1, r^3, r^5, r^7, r^9}, {s}, {r^6, r^2, r^4, r^8, r^10}}
+X_13:	{{1}, {mu_1, lambda}, {mu_0}, {chi_2, chi_6, chi_4, chi_8, chi_10, chi_3, chi_1, chi_9, chi_5, chi_7}}
+
+K_6:	{{e}, {r^11}, {s, r^1, r^3, r^5, r^7, r^9}, {sr, r^2, r^4, r^8, r^10, r^6}}
+X_6:	{{1}, {mu_1}, {mu_0, chi_3, chi_1, chi_9, chi_5, chi_7}, {lambda, chi_2, chi_6, chi_4, chi_8, chi_10}}
+
+K_7:	{{e}, {r^11, s, r^1, r^3, r^5, r^7, r^9}, {sr, r^2, r^4, r^8, r^10, r^6}}
+X_7:	{{1}, {mu_1}, {mu_0, lambda, chi_2, chi_6, chi_4, chi_8, chi_10, chi_3, chi_1, chi_9, chi_5, chi_7}}
+
+K_16:	{{e}, {r^11}, {s, r^2, r^4, r^8, r^10, r^6}, {sr, r^1, r^3, r^5, r^7, r^9}}
+X_16:	{{1}, {mu_1, chi_3, chi_1, chi_9, chi_5, chi_7}, {mu_0}, {lambda, chi_2, chi_6, chi_4, chi_8, chi_10}}
+
+K_21:	{{e}, {r^11, sr, r^1, r^3, r^5, r^7, r^9}, {s, r^2, r^4, r^8, r^10, r^6}}
+X_21:	{{1}, {mu_1, lambda, chi_2, chi_6, chi_4, chi_8, chi_10, chi_3, chi_1, chi_9, chi_5, chi_7}, {mu_0}}
+
+D48
+
+K_45:	{{e}, {r^12}, {r^2, s, r^8, r^10, r^4}, {sr, r^1, r^5, r^7, r^11}, {r^6}, {r^3}, {r^9}}
+X_45:	{{1}, {mu_0}, {mu_1, chi_4}, {lambda, chi_8}, {chi_2, chi_10, chi_6}, {chi_5, chi_11, chi_3}, {chi_9, chi_1, chi_7}}
+
+K_102:	{{e}, {r^12}, {s, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^8, r^4}, {r^6}, {r^3}, {r^9}}
+X_102:	{{1}, {mu_0, chi_4}, {mu_1}, {lambda, chi_8}, {chi_2, chi_10, chi_6}, {chi_5, chi_11, chi_3}, {chi_9, chi_1, chi_7}}
+
+K_46:	{{e}, {r^12}, {r^2, s, r^8, r^10, r^4}, {sr, r^1, r^5, r^7, r^11}, {r^6}, {r^9, r^3}}
+X_46:	{{1}, {mu_0}, {mu_1, chi_4}, {lambda, chi_8}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_47:	{{e}, {r^12, r^6}, {r^2, s, r^8, r^10, r^4}, {sr, r^1, r^5, r^7, r^11}, {r^9, r^3}}
+X_47:	{{1}, {mu_0}, {mu_1, chi_4}, {lambda, chi_8}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_103:	{{e}, {r^12}, {s, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^8, r^4}, {r^6}, {r^9, r^3}}
+X_103:	{{1}, {mu_0, chi_4}, {mu_1}, {lambda, chi_8}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_104:	{{e}, {r^12, r^6}, {s, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^8, r^4}, {r^9, r^3}}
+X_104:	{{1}, {mu_0, chi_4}, {mu_1}, {lambda, chi_8}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_32:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^6}, {r^4}, {r^2}, {r^10}}
+X_32:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_2, chi_10}, {chi_5, chi_7}, {chi_11, chi_1}}
+
+K_33:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^6}, {r^4}, {r^2, r^10}}
+X_33:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_2, chi_10}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_34:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8, r^4}, {r^6}, {r^2, r^10}}
+X_34:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}, {chi_2, chi_10}}
+
+K_36:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, r^8, r^4}, {r^6}}
+X_36:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_52:	{{e}, {r^12}, {r^2, s, r^8, r^10, r^4}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^6}}
+X_52:	{{1}, {mu_0}, {mu_1, lambda, chi_4, chi_8}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_35:	{{e}, {r^12, r^6}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^2, r^10, r^4}}
+X_35:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_9, chi_6, chi_3}, {chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_37:	{{e}, {r^12, r^6}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, r^8, r^4}}
+X_37:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_53:	{{e}, {r^12, r^6}, {r^2, s, r^8, r^10, r^4}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_53:	{{1}, {mu_0}, {mu_1, lambda, chi_4, chi_8}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_38:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^2, r^10, r^6}, {r^4}}
+X_38:	{{1}, {mu_0}, {mu_1, lambda}, {chi_2, chi_10, chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_39:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8, r^4}, {r^2, r^10, r^6}}
+X_39:	{{1}, {mu_0}, {mu_1, lambda}, {chi_2, chi_10, chi_4, chi_8}, {chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_40:	{{e}, {r^12}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, r^8, r^6, r^4}}
+X_40:	{{1}, {mu_0}, {mu_1, lambda}, {chi_2, chi_10, chi_4, chi_6, chi_8}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_41:	{{e}, {r^12, r^4}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^2, r^10, r^6}}
+X_41:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_6}, {chi_9, chi_3}}
+
+K_42:	{{e}, {r^12, r^10, r^6, r^4, r^2}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}}
+X_42:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_9, chi_6, chi_3}}
+
+K_43:	{{e}, {r^12, r^8, r^4}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, r^6}}
+X_43:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_6}}
+
+K_44:	{{e}, {r^12, r^8, r^6, r^4, r^2, r^10}, {s}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_44:	{{1}, {mu_0}, {mu_1, lambda}, {chi_4, chi_6, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_48:	{{e}, {r^12}, {r^2, s, r^10, r^6}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}, {r^4}}
+X_48:	{{1}, {mu_0}, {mu_1, lambda, chi_6}, {chi_2, chi_10, chi_4, chi_8}, {chi_9, chi_3}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_49:	{{e}, {r^12}, {r^2, s, r^10, r^6}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8, r^4}}
+X_49:	{{1}, {mu_0}, {mu_1, lambda, chi_6}, {chi_2, chi_10, chi_4, chi_8}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_55:	{{e}, {r^12}, {s, r^8, r^6, r^4, r^2, r^10}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_55:	{{1}, {mu_0}, {mu_1, lambda, chi_4, chi_6, chi_8, chi_2, chi_10}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_50:	{{e}, {r^12, r^4}, {r^2, s, r^10, r^6}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}}
+X_50:	{{1}, {mu_0}, {mu_1, lambda, chi_6}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_9, chi_3}}
+
+K_51:	{{e}, {r^12, r^8, r^4}, {r^2, s, r^10, r^6}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_51:	{{1}, {mu_0}, {mu_1, lambda, chi_6}, {chi_4, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_54:	{{e}, {r^12, s, r^6, r^4, r^2, r^10}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}}
+X_54:	{{1}, {mu_0}, {chi_9, mu_1, lambda, chi_6, chi_3}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_56:	{{e}, {r^12, s, r^8, r^6, r^4, r^2, r^10}, {sr, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_56:	{{1}, {mu_0}, {mu_1, lambda, chi_4, chi_6, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_89:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}, {r^6}, {r^4}, {r^2}, {r^10}}
+X_89:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_2, chi_10}, {chi_5, chi_7}, {chi_11, chi_1}}
+
+K_90:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}, {r^6}, {r^4}, {r^2, r^10}}
+X_90:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_2, chi_10}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_91:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8, r^4}, {r^6}, {r^2, r^10}}
+X_91:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}, {chi_2, chi_10}}
+
+K_93:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^2, r^10, r^8, r^4}, {r^6}}
+X_93:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_140:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^8, r^4}, {r^6}}
+X_140:	{{1}, {mu_0, lambda, chi_4, chi_8}, {mu_1}, {chi_2, chi_10, chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_92:	{{e}, {r^12, r^6}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}, {r^2, r^10, r^4}}
+X_92:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_9, chi_6, chi_3}, {chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_94:	{{e}, {r^12, r^6}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^2, r^10, r^8, r^4}}
+X_94:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_141:	{{e}, {r^12, r^6}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^8, r^4}}
+X_141:	{{1}, {mu_0, lambda, chi_4, chi_8}, {mu_1}, {chi_6, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_95:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}, {r^2, r^10, r^6}, {r^4}}
+X_95:	{{1}, {mu_0, lambda}, {mu_1}, {chi_2, chi_10, chi_4, chi_8}, {chi_6}, {chi_9, chi_3}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_96:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8, r^4}, {r^2, r^10, r^6}}
+X_96:	{{1}, {mu_0, lambda}, {mu_1}, {chi_2, chi_10, chi_4, chi_8}, {chi_6}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_97:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^2, r^10, r^8, r^6, r^4}}
+X_97:	{{1}, {mu_0, lambda}, {mu_1}, {chi_2, chi_10, chi_4, chi_6, chi_8}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_98:	{{e}, {r^12, r^4}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}, {r^2, r^10, r^6}}
+X_98:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_6}, {chi_9, chi_3}}
+
+K_99:	{{e}, {r^12, r^10, r^6, r^4, r^2}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^8}}
+X_99:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_9, chi_6, chi_3}}
+
+K_100:	{{e}, {r^12, r^8, r^4}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}, {r^2, r^10, r^6}}
+X_100:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_6}}
+
+K_101:	{{e}, {r^12, r^8, r^6, r^4, r^2, r^10}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr}}
+X_101:	{{1}, {mu_0, lambda}, {mu_1}, {chi_4, chi_6, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_130:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^6}, {r^8}, {r^4}}
+X_130:	{{1}, {mu_0, lambda, chi_6}, {mu_1}, {chi_2, chi_10, chi_4, chi_8}, {chi_9, chi_3}, {chi_5, chi_11, chi_1, chi_7}}
+
+K_131:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^6}, {r^8, r^4}}
+X_131:	{{1}, {mu_0, lambda, chi_6}, {mu_1}, {chi_2, chi_10, chi_4, chi_8}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_151:	{{e}, {r^12}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {sr, r^8, r^6, r^4, r^2, r^10}}
+X_151:	{{1}, {mu_0, lambda, chi_4, chi_6, chi_8, chi_2, chi_10}, {mu_1}, {chi_3, chi_9, chi_5, chi_11, chi_1, chi_7}}
+
+K_132:	{{e}, {r^12, r^4}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^6}, {r^8}}
+X_132:	{{1}, {mu_0, lambda, chi_6}, {mu_1}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {chi_9, chi_3}}
+
+K_133:	{{e}, {r^12, r^8, r^4}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^2, r^10, sr, r^6}}
+X_133:	{{1}, {mu_0, lambda, chi_6}, {mu_1}, {chi_4, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_146:	{{e}, {r^12, sr, r^6, r^4, r^2, r^10}, {s, r^3, r^9, r^1, r^5, r^7, r^11}, {r^8}}
+X_146:	{{1}, {chi_9, mu_0, lambda, chi_6, chi_3}, {mu_1}, {chi_4, chi_8, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}}
+
+K_156:	{{e}, {r^12, sr, r^8, r^6, r^4, r^2, r^10}, {s, r^3, r^9, r^1, r^5, r^7, r^11}}
+X_156:	{{1}, {mu_0, lambda, chi_4, chi_6, chi_8, chi_3, chi_9, chi_2, chi_10, chi_5, chi_11, chi_1, chi_7}, {mu_1}}
+
+D52
+
+K_8:	{{e}, {r^13, sr, r^1, r^3, r^5, r^7, r^9, r^11}, {s}, {r^2}, {r^4}, {r^8}, {r^12}, {r^10}, {r^6}}
+X_8:	{{1}, {mu_0}, {lambda, mu_1}, {chi_7, chi_6}, {chi_10, chi_3}, {chi_12, chi_1}, {chi_9, chi_4}, {chi_2, chi_11}, {chi_8, chi_5}}
+
+K_9:	{{e}, {r^13, sr, r^1, r^3, r^5, r^7, r^9, r^11}, {s}, {r^10, r^2}, {r^6, r^4}, {r^8, r^12}}
+X_9:	{{1}, {mu_0}, {lambda, mu_1}, {chi_7, chi_9, chi_6, chi_4}, {chi_10, chi_2, chi_3, chi_11}, {chi_12, chi_8, chi_5, chi_1}}
+
+K_14:	{{e}, {r^13, s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr}, {r^2}, {r^4}, {r^8}, {r^12}, {r^10}, {r^6}}
+X_14:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_6}, {chi_10, chi_3}, {chi_12, chi_1}, {chi_9, chi_4}, {chi_2, chi_11}, {chi_8, chi_5}}
+
+K_15:	{{e}, {r^13, s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr}, {r^10, r^2}, {r^6, r^4}, {r^8, r^12}}
+X_15:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_9, chi_6, chi_4}, {chi_10, chi_2, chi_3, chi_11}, {chi_12, chi_8, chi_5, chi_1}}
+
+K_12:	{{e}, {r^13}, {s, r^2, r^4, r^8, r^12, r^10, r^6}, {sr, r^1, r^3, r^5, r^7, r^9, r^11}}
+X_12:	{{1}, {mu_0}, {lambda, chi_6, chi_12, chi_4, chi_10, chi_2, chi_8}, {mu_1, chi_3, chi_7, chi_9, chi_5, chi_1, chi_11}}
+
+K_30:	{{e}, {r^13}, {s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr, r^2, r^4, r^8, r^12, r^10, r^6}}
+X_30:	{{1}, {mu_0, chi_3, chi_7, chi_9, chi_5, chi_1, chi_11}, {lambda, chi_6, chi_12, chi_4, chi_10, chi_2, chi_8}, {mu_1}}
+
+K_10:	{{e}, {r^13, sr, r^1, r^3, r^5, r^7, r^9, r^11}, {s}, {r^6, r^2, r^8}, {r^10, r^4, r^12}}
+X_10:	{{1}, {mu_0}, {lambda, mu_1}, {chi_6, chi_7, chi_2, chi_8, chi_5, chi_11}, {chi_3, chi_12, chi_4, chi_10, chi_9, chi_1}}
+
+K_11:	{{e}, {r^13, sr, r^1, r^3, r^5, r^7, r^9, r^11}, {s}, {r^2, r^4, r^8, r^12, r^10, r^6}}
+X_11:	{{1}, {mu_0}, {lambda, mu_1}, {chi_6, chi_3, chi_12, chi_4, chi_7, chi_10, chi_2, chi_9, chi_8, chi_5, chi_1, chi_11}}
+
+K_13:	{{e}, {r^13, sr, r^1, r^3, r^5, r^7, r^9, r^11}, {s, r^2, r^4, r^8, r^12, r^10, r^6}}
+X_13:	{{1}, {mu_0}, {lambda, mu_1, chi_6, chi_3, chi_12, chi_4, chi_7, chi_10, chi_2, chi_9, chi_8, chi_5, chi_1, chi_11}}
+
+K_16:	{{e}, {r^13, s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr}, {r^6, r^2, r^8}, {r^10, r^4, r^12}}
+X_16:	{{1}, {mu_0, lambda}, {mu_1}, {chi_6, chi_7, chi_2, chi_8, chi_5, chi_11}, {chi_3, chi_12, chi_4, chi_10, chi_9, chi_1}}
+
+K_17:	{{e}, {r^13, s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr}, {r^2, r^4, r^8, r^12, r^10, r^6}}
+X_17:	{{1}, {mu_0, lambda}, {mu_1}, {chi_6, chi_3, chi_12, chi_4, chi_7, chi_10, chi_2, chi_9, chi_8, chi_5, chi_1, chi_11}}
+
+K_36:	{{e}, {r^13, s, r^1, r^3, r^5, r^7, r^9, r^11}, {sr, r^2, r^4, r^8, r^12, r^10, r^6}}
+X_36:	{{1}, {mu_0, lambda, chi_6, chi_3, chi_12, chi_4, chi_7, chi_10, chi_2, chi_9, chi_8, chi_5, chi_1, chi_11}, {mu_1}}
+
+D56
+
+K_13:	{{e}, {r^14}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^4}, {r^12}, {r^8}, {r^2}, {r^6}, {r^10}}
+X_13:	{{1}, {mu_1}, {lambda, mu_0}, {chi_7}, {chi_6, chi_8}, {chi_4, chi_10}, {chi_12, chi_2}, {chi_3, chi_11}, {chi_5, chi_9}, {chi_1, chi_13}}
+
+K_14:	{{e}, {r^2, r^14, r^10, r^6}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^4}, {r^12}, {r^8}}
+X_14:	{{1}, {mu_1}, {lambda, mu_0}, {chi_7}, {chi_8, chi_6, chi_1, chi_13}, {chi_4, chi_3, chi_11, chi_10}, {chi_5, chi_12, chi_2, chi_9}}
+
+K_20:	{{e}, {r^2, r^14, r^10, sr, r^6}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4}, {r^12}, {r^8}}
+X_20:	{{1}, {mu_1}, {lambda, mu_0, chi_7}, {chi_8, chi_6, chi_1, chi_13}, {chi_4, chi_3, chi_11, chi_10}, {chi_5, chi_12, chi_2, chi_9}}
+
+K_25:	{{e}, {r^14}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4}, {r^12}, {r^8}, {r^2}, {r^6}, {r^10}}
+X_25:	{{1}, {mu_1, lambda}, {mu_0}, {chi_7}, {chi_6, chi_8}, {chi_4, chi_10}, {chi_12, chi_2}, {chi_3, chi_11}, {chi_5, chi_9}, {chi_1, chi_13}}
+
+K_26:	{{e}, {r^2, r^14, r^10, r^6}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4}, {r^12}, {r^8}}
+X_26:	{{1}, {mu_1, lambda}, {mu_0}, {chi_7}, {chi_8, chi_6, chi_1, chi_13}, {chi_4, chi_3, chi_11, chi_10}, {chi_5, chi_12, chi_2, chi_9}}
+
+K_52:	{{e}, {r^2, r^14, s, r^10, r^6}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4}, {r^12}, {r^8}}
+X_52:	{{1}, {mu_1, lambda, chi_7}, {mu_0}, {chi_8, chi_6, chi_1, chi_13}, {chi_4, chi_3, chi_11, chi_10}, {chi_5, chi_12, chi_2, chi_9}}
+
+K_17:	{{e}, {r^14}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^10, r^4}, {r^2, r^12}, {r^6, r^8}}
+X_17:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}, {chi_6, chi_8}, {chi_4, chi_10}, {chi_12, chi_2}}
+
+K_29:	{{e}, {r^14}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^10, r^4}, {r^2, r^12}, {r^6, r^8}}
+X_29:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}, {chi_6, chi_8}, {chi_4, chi_10}, {chi_12, chi_2}}
+
+K_15:	{{e}, {r^14}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^4, r^12, r^8}, {r^2, r^6, r^10}}
+X_15:	{{1}, {mu_1}, {lambda, mu_0}, {chi_7}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}, {chi_5, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_16:	{{e}, {r^2, r^14, r^10, r^6}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^4, r^12, r^8}}
+X_16:	{{1}, {mu_1}, {lambda, mu_0}, {chi_7}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_21:	{{e}, {r^2, r^14, r^10, sr, r^6}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4, r^12, r^8}}
+X_21:	{{1}, {mu_1}, {lambda, mu_0, chi_7}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_27:	{{e}, {r^14}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4, r^12, r^8}, {r^2, r^6, r^10}}
+X_27:	{{1}, {mu_1, lambda}, {mu_0}, {chi_7}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}, {chi_5, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_28:	{{e}, {r^2, r^14, r^10, r^6}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4, r^12, r^8}}
+X_28:	{{1}, {mu_1, lambda}, {mu_0}, {chi_7}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_53:	{{e}, {r^2, r^14, s, r^10, r^6}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4, r^12, r^8}}
+X_53:	{{1}, {mu_1, lambda, chi_7}, {mu_0}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_18:	{{e}, {r^14}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}, {r^4, r^12, r^8, r^2, r^6, r^10}}
+X_18:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}}
+
+K_19:	{{e}, {r^14, r^4, r^12, r^8, r^2, r^6, r^10}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr}}
+X_19:	{{1}, {mu_1}, {lambda, mu_0}, {chi_7, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_30:	{{e}, {r^14}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {r^4, r^12, r^8, r^2, r^6, r^10}}
+X_30:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}, {chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}}
+
+K_31:	{{e}, {r^14, r^4, r^12, r^8, r^2, r^6, r^10}, {s}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}}
+X_31:	{{1}, {mu_1, lambda}, {mu_0}, {chi_7, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_22:	{{e}, {r^14}, {r^13, s, r^1, r^3, r^5, r^9, r^11}, {sr, r^4, r^12, r^8, r^2, r^6, r^10}, {r^7}}
+X_22:	{{1}, {mu_1}, {chi_4, chi_12, lambda, chi_8}, {chi_2, mu_0, chi_6, chi_10}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_23:	{{e}, {r^14}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}, {sr, r^4, r^12, r^8, r^2, r^6, r^10}}
+X_23:	{{1}, {mu_1}, {lambda, mu_0, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_24:	{{e}, {r^14, sr, r^4, r^12, r^8, r^2, r^6, r^10}, {s, r^7, r^1, r^3, r^5, r^9, r^11, r^13}}
+X_24:	{{1}, {mu_1}, {lambda, mu_0, chi_7, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}}
+
+K_60:	{{e}, {r^14}, {s, r^4, r^12, r^8, r^2, r^6, r^10}, {r^13, sr, r^1, r^3, r^5, r^9, r^11}, {r^7}}
+X_60:	{{1}, {mu_1, chi_2, chi_6, chi_10}, {chi_4, chi_12, lambda, chi_8}, {mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_64:	{{e}, {r^14}, {s, r^4, r^12, r^8, r^2, r^6, r^10}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}}
+X_64:	{{1}, {mu_1, lambda, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2}, {mu_0}, {chi_5, chi_7, chi_3, chi_9, chi_11, chi_1, chi_13}}
+
+K_70:	{{e}, {r^14, s, r^4, r^12, r^8, r^2, r^6, r^10}, {sr, r^7, r^1, r^3, r^5, r^9, r^11, r^13}}
+X_70:	{{1}, {mu_1, lambda, chi_7, chi_6, chi_8, chi_10, chi_4, chi_12, chi_2, chi_3, chi_9, chi_11, chi_1, chi_13, chi_5}, {mu_0}}
+
+D60
+
+K_34:	{{e}, {r^15}, {r^11, r^13, s, r^5, r^1, r^7}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}, {r^3}, {r^9}}
+X_34:	{{1}, {mu_1}, {lambda, chi_10}, {mu_0, chi_5}, {chi_13, chi_7, chi_3}, {chi_1, chi_11, chi_9}, {chi_12, chi_2, chi_8}, {chi_6, chi_4, chi_14}}
+
+K_35:	{{e}, {r^15}, {r^11, r^13, s, r^5, r^1, r^7}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}, {r^3, r^9}}
+X_35:	{{1}, {mu_1}, {lambda, chi_10}, {mu_0, chi_5}, {chi_3, chi_9, chi_13, chi_1, chi_11, chi_7}, {chi_2, chi_14, chi_12, chi_6, chi_8, chi_4}}
+
+K_79:	{{e}, {r^15}, {s, r^10, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^5, r^1, r^7}, {r^6}, {r^12}, {r^3}, {r^9}}
+X_79:	{{1}, {mu_1, chi_5}, {lambda, chi_10}, {mu_0}, {chi_13, chi_7, chi_3}, {chi_1, chi_11, chi_9}, {chi_12, chi_2, chi_8}, {chi_6, chi_4, chi_14}}
+
+K_80:	{{e}, {r^15}, {s, r^10, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^5, r^1, r^7}, {r^6, r^12}, {r^3, r^9}}
+X_80:	{{1}, {mu_1, chi_5}, {lambda, chi_10}, {mu_0}, {chi_3, chi_9, chi_13, chi_1, chi_11, chi_7}, {chi_2, chi_14, chi_12, chi_6, chi_8, chi_4}}
+
+K_38:	{{e}, {r^15}, {r^11, r^13, s, r^3, r^9, r^1, r^7}, {sr, r^6, r^12, r^2, r^14, r^4, r^8}, {r^10}, {r^5}}
+X_38:	{{1}, {mu_1}, {chi_12, chi_6, lambda}, {mu_0, chi_3, chi_9}, {chi_5, chi_13, chi_1, chi_11, chi_7}, {chi_2, chi_14, chi_10, chi_8, chi_4}}
+
+K_43:	{{e}, {r^15}, {s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr, r^10, r^6, r^12, r^2, r^14, r^4, r^8}}
+X_43:	{{1}, {mu_1}, {lambda, chi_10, chi_12, chi_6, chi_8, chi_4, chi_2, chi_14}, {mu_0, chi_5, chi_3, chi_9, chi_13, chi_1, chi_11, chi_7}}
+
+K_102:	{{e}, {r^15}, {s, r^6, r^12, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^3, r^9, r^1, r^7}, {r^10}, {r^5}}
+X_102:	{{1}, {mu_1, chi_3, chi_9}, {chi_12, chi_6, lambda}, {mu_0}, {chi_5, chi_13, chi_1, chi_11, chi_7}, {chi_2, chi_14, chi_10, chi_8, chi_4}}
+
+K_125:	{{e}, {r^15}, {s, r^10, r^6, r^12, r^2, r^14, r^4, r^8}, {sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}}
+X_125:	{{1}, {mu_1, chi_5, chi_3, chi_9, chi_13, chi_1, chi_11, chi_7}, {lambda, chi_10, chi_12, chi_6, chi_8, chi_4, chi_2, chi_14}, {mu_0}}
+
+K_36:	{{e}, {r^3, r^15, r^9}, {r^11, r^13, s, r^5, r^1, r^7}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}}
+X_36:	{{1}, {mu_1}, {lambda, chi_10}, {mu_0, chi_5}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_37:	{{e}, {r^3, r^15, r^9}, {r^11, r^13, s, r^5, r^1, r^7}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}}
+X_37:	{{1}, {mu_1}, {lambda, chi_10}, {mu_0, chi_5}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_81:	{{e}, {r^3, r^15, r^9}, {s, r^10, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^5, r^1, r^7}, {r^6}, {r^12}}
+X_81:	{{1}, {mu_1, chi_5}, {lambda, chi_10}, {mu_0}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_82:	{{e}, {r^3, r^15, r^9}, {s, r^10, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^5, r^1, r^7}, {r^6, r^12}}
+X_82:	{{1}, {mu_1, chi_5}, {lambda, chi_10}, {mu_0}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_39:	{{e}, {r^15, r^5}, {r^11, r^13, s, r^3, r^9, r^1, r^7}, {sr, r^6, r^12, r^2, r^14, r^4, r^8}, {r^10}}
+X_39:	{{1}, {mu_1}, {chi_12, chi_6, lambda}, {mu_0, chi_3, chi_9}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_103:	{{e}, {r^15, r^5}, {s, r^6, r^12, r^2, r^14, r^4, r^8}, {r^11, r^13, sr, r^3, r^9, r^1, r^7}, {r^10}}
+X_103:	{{1}, {mu_1, chi_3, chi_9}, {chi_12, chi_6, lambda}, {mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_26:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10}, {r^6}, {r^12}, {r^2}, {r^14}, {r^4}, {r^8}}
+X_26:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10}, {chi_12, chi_3}, {chi_6, chi_9}, {chi_2, chi_13}, {chi_14, chi_1}, {chi_11, chi_4}, {chi_7, chi_8}}
+
+K_27:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10}, {r^6}, {r^12}, {r^2, r^8}, {r^14, r^4}}
+X_27:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10}, {chi_12, chi_3}, {chi_6, chi_9}, {chi_2, chi_13, chi_7, chi_8}, {chi_14, chi_1, chi_11, chi_4}}
+
+K_28:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10}, {r^6, r^12}, {r^2, r^14, r^4, r^8}}
+X_28:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10}, {chi_12, chi_6, chi_3, chi_9}, {chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_29:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}}
+X_29:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_30:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}}
+X_30:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_40:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}}
+X_40:	{{1}, {mu_1}, {lambda, mu_0, chi_5, chi_10}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_41:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr, r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}}
+X_41:	{{1}, {mu_1}, {lambda, mu_0, chi_5, chi_10}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_31:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10}, {r^14, r^4, r^6}, {r^2, r^8, r^12}}
+X_31:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}, {chi_12, chi_3}, {chi_6, chi_9}}
+
+K_32:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10}, {r^6, r^12, r^2, r^14, r^4, r^8}}
+X_32:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}, {chi_12, chi_6, chi_3, chi_9}}
+
+K_33:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr}, {r^10, r^6, r^12, r^2, r^14, r^4, r^8}}
+X_33:	{{1}, {mu_1}, {lambda, mu_0}, {chi_5, chi_10, chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_42:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr, r^6, r^12, r^2, r^14, r^4, r^8}, {r^10}}
+X_42:	{{1}, {mu_1}, {lambda, mu_0, chi_3, chi_9, chi_12, chi_6}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_44:	{{e}, {r^15, s, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {sr, r^10, r^6, r^12, r^2, r^14, r^4, r^8}}
+X_44:	{{1}, {mu_1}, {lambda, mu_0, chi_5, chi_10, chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_45:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10}, {r^6}, {r^12}, {r^2}, {r^14}, {r^4}, {r^8}}
+X_45:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10}, {chi_12, chi_3}, {chi_6, chi_9}, {chi_2, chi_13}, {chi_14, chi_1}, {chi_11, chi_4}, {chi_7, chi_8}}
+
+K_46:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10}, {r^6}, {r^12}, {r^2, r^8}, {r^14, r^4}}
+X_46:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10}, {chi_12, chi_3}, {chi_6, chi_9}, {chi_2, chi_13, chi_7, chi_8}, {chi_14, chi_1, chi_11, chi_4}}
+
+K_47:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10}, {r^6, r^12}, {r^2, r^14, r^4, r^8}}
+X_47:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10}, {chi_12, chi_6, chi_3, chi_9}, {chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_48:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}}
+X_48:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_49:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}}
+X_49:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_104:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s, r^10, r^2, r^14, r^4, r^8}, {r^6}, {r^12}}
+X_104:	{{1}, {mu_1, lambda, chi_5, chi_10}, {mu_0}, {chi_2, chi_3, chi_12, chi_13, chi_7, chi_8}, {chi_14, chi_9, chi_6, chi_1, chi_11, chi_4}}
+
+K_105:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s, r^10, r^2, r^14, r^4, r^8}, {r^6, r^12}}
+X_105:	{{1}, {mu_1, lambda, chi_5, chi_10}, {mu_0}, {chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_50:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10}, {r^14, r^4, r^6}, {r^2, r^8, r^12}}
+X_50:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}, {chi_12, chi_3}, {chi_6, chi_9}}
+
+K_51:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10}, {r^6, r^12, r^2, r^14, r^4, r^8}}
+X_51:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}, {chi_12, chi_6, chi_3, chi_9}}
+
+K_52:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s}, {r^10, r^6, r^12, r^2, r^14, r^4, r^8}}
+X_52:	{{1}, {mu_1, lambda}, {mu_0}, {chi_5, chi_10, chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_121:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s, r^6, r^12, r^2, r^14, r^4, r^8}, {r^10}}
+X_121:	{{1}, {mu_1, lambda, chi_3, chi_9, chi_12, chi_6}, {mu_0}, {chi_5, chi_10, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}}
+
+K_143:	{{e}, {r^15, sr, r^5, r^3, r^9, r^1, r^7, r^11, r^13}, {s, r^10, r^6, r^12, r^2, r^14, r^4, r^8}}
+X_143:	{{1}, {mu_1, lambda, chi_5, chi_10, chi_3, chi_9, chi_12, chi_6, chi_13, chi_1, chi_11, chi_7, chi_8, chi_4, chi_2, chi_14}, {mu_0}}
+
+D64
+
+K_53:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4}, {r^12}, {r^2}, {r^6}, {r^10}, {r^14}}
+X_53:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_3, chi_13}, {chi_7, chi_9}, {chi_1, chi_15}, {chi_11, chi_5}}
+
+K_54:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4}, {r^12}, {r^14, r^2}, {r^6, r^10}}
+X_54:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_55:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4, r^12}, {r^14, r^2}, {r^6, r^10}}
+X_55:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_56:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4}, {r^12}, {r^6, r^10, r^14, r^2}}
+X_56:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_57:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_57:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_58:	{{e}, {r^16, r^8}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_58:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_59:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8, r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_59:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_60:	{{e}, {r^16, r^8, r^4, r^12}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^6, r^10, r^14, r^2}}
+X_60:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_61:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8}, {r^4, r^12, r^2, r^6, r^10, r^14}}
+X_61:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8, chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_62:	{{e}, {r^16, r^8}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^4, r^12, r^2, r^6, r^10, r^14}}
+X_62:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8, chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_63:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^8, r^4, r^12, r^2, r^6, r^10, r^14}}
+X_63:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_64:	{{e}, {r^16, r^8, r^4, r^12, r^2, r^6, r^10, r^14}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}}
+X_64:	{{1}, {lambda, mu_0}, {mu_1}, {chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_89:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, sr, r^2}, {r^8}, {r^4}, {r^12}}
+X_89:	{{1}, {lambda, mu_0, chi_8}, {mu_1}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_90:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, sr, r^2}, {r^8}, {r^4, r^12}}
+X_90:	{{1}, {lambda, mu_0, chi_8}, {mu_1}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_91:	{{e}, {r^16, r^8}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, sr, r^2}, {r^4, r^12}}
+X_91:	{{1}, {lambda, mu_0, chi_8}, {mu_1}, {chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_92:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, sr, r^2}, {r^8, r^4, r^12}}
+X_92:	{{1}, {lambda, mu_0, chi_8}, {mu_1}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_93:	{{e}, {r^16, r^8, r^4, r^12}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, sr, r^2}}
+X_93:	{{1}, {lambda, mu_0, chi_8}, {mu_1}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_104:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr, r^4, r^12, r^2, r^6, r^10, r^14}, {r^8}}
+X_104:	{{1}, {lambda, mu_0, chi_8, chi_12, chi_4}, {mu_1}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_105:	{{e}, {r^16, r^8}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr, r^4, r^12, r^2, r^6, r^10, r^14}}
+X_105:	{{1}, {lambda, mu_0, chi_8, chi_12, chi_4}, {mu_1}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_110:	{{e}, {r^16}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr, r^8, r^4, r^12, r^2, r^6, r^10, r^14}}
+X_110:	{{1}, {lambda, mu_0, chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {mu_1}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_113:	{{e}, {r^16, sr, r^8, r^4, r^12, r^2, r^6, r^10, r^14}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_113:	{{1}, {lambda, mu_0, chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}, {mu_1}}
+
+K_65:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4}, {r^12}, {r^2}, {r^6}, {r^10}, {r^14}}
+X_65:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_3, chi_13}, {chi_7, chi_9}, {chi_1, chi_15}, {chi_11, chi_5}}
+
+K_66:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4}, {r^12}, {r^14, r^2}, {r^6, r^10}}
+X_66:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_67:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4, r^12}, {r^14, r^2}, {r^6, r^10}}
+X_67:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_10, chi_6}, {chi_14, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_68:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4}, {r^12}, {r^6, r^10, r^14, r^2}}
+X_68:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_69:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_69:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_70:	{{e}, {r^16, r^8}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_70:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_71:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8, r^4, r^12}, {r^6, r^10, r^14, r^2}}
+X_71:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_72:	{{e}, {r^16, r^8, r^4, r^12}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^6, r^10, r^14, r^2}}
+X_72:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_73:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4, r^12, r^2, r^6, r^10, r^14}}
+X_73:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8, chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_74:	{{e}, {r^16, r^8}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^4, r^12, r^2, r^6, r^10, r^14}}
+X_74:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8, chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_75:	{{e}, {r^16}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8, r^4, r^12, r^2, r^6, r^10, r^14}}
+X_75:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_76:	{{e}, {r^16, r^8, r^4, r^12, r^2, r^6, r^10, r^14}, {s}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_76:	{{1}, {lambda, mu_1}, {mu_0}, {chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_94:	{{e}, {r^16}, {r^6, r^10, s, r^14, r^2}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4}, {r^12}}
+X_94:	{{1}, {lambda, mu_1, chi_8}, {mu_0}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_3, chi_11, chi_13, chi_5}, {chi_7, chi_9, chi_1, chi_15}}
+
+K_95:	{{e}, {r^16}, {r^6, r^10, s, r^14, r^2}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}, {r^4, r^12}}
+X_95:	{{1}, {lambda, mu_1, chi_8}, {mu_0}, {chi_12, chi_4}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_96:	{{e}, {r^16, r^8}, {r^6, r^10, s, r^14, r^2}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^4, r^12}}
+X_96:	{{1}, {lambda, mu_1, chi_8}, {mu_0}, {chi_12, chi_4}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_97:	{{e}, {r^16}, {r^6, r^10, s, r^14, r^2}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8, r^4, r^12}}
+X_97:	{{1}, {lambda, mu_1, chi_8}, {mu_0}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_98:	{{e}, {r^16, r^8, r^4, r^12}, {r^6, r^10, s, r^14, r^2}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_98:	{{1}, {lambda, mu_1, chi_8}, {mu_0}, {chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_106:	{{e}, {r^16}, {s, r^4, r^12, r^2, r^6, r^10, r^14}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {r^8}}
+X_106:	{{1}, {lambda, mu_1, chi_8, chi_12, chi_4}, {mu_0}, {chi_14, chi_10, chi_2, chi_6}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_107:	{{e}, {r^16, r^8}, {s, r^4, r^12, r^2, r^6, r^10, r^14}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_107:	{{1}, {lambda, mu_1, chi_8, chi_12, chi_4}, {mu_0}, {chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_111:	{{e}, {r^16}, {s, r^8, r^4, r^12, r^2, r^6, r^10, r^14}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_111:	{{1}, {lambda, mu_1, chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2}, {mu_0}, {chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}}
+
+K_114:	{{e}, {r^16, s, r^8, r^4, r^12, r^2, r^6, r^10, r^14}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_114:	{{1}, {lambda, mu_1, chi_8, chi_12, chi_4, chi_6, chi_14, chi_10, chi_2, chi_13, chi_9, chi_1, chi_5, chi_15, chi_3, chi_11, chi_7}, {mu_0}}
+
+D68
+
+K_8:	{{e}, {r^17, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {s}, {r^2}, {r^6}, {r^4}, {r^8}, {r^12}, {r^16}, {r^14}, {r^10}}
+X_8:	{{1}, {mu_0}, {mu_1, lambda}, {chi_8, chi_9}, {chi_6, chi_11}, {chi_1, chi_16}, {chi_13, chi_4}, {chi_12, chi_5}, {chi_14, chi_3}, {chi_15, chi_2}, {chi_7, chi_10}}
+
+K_22:	{{e}, {r^17, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^2}, {r^6}, {r^4}, {r^8}, {r^12}, {r^16}, {r^14}, {r^10}}
+X_22:	{{1}, {mu_0, lambda}, {mu_1}, {chi_8, chi_9}, {chi_6, chi_11}, {chi_1, chi_16}, {chi_13, chi_4}, {chi_12, chi_5}, {chi_14, chi_3}, {chi_15, chi_2}, {chi_7, chi_10}}
+
+K_12:	{{e}, {r^17}, {s, r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}}
+X_12:	{{1}, {mu_0}, {mu_1, chi_11, chi_5, chi_13, chi_3, chi_9, chi_15, chi_1, chi_7}, {lambda, chi_8, chi_16, chi_4, chi_6, chi_14, chi_2, chi_10, chi_12}}
+
+K_30:	{{e}, {r^17}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr, r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}}
+X_30:	{{1}, {mu_0, chi_11, chi_5, chi_13, chi_3, chi_9, chi_15, chi_1, chi_7}, {mu_1}, {lambda, chi_8, chi_16, chi_4, chi_6, chi_14, chi_2, chi_10, chi_12}}
+
+K_9:	{{e}, {r^17, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {s}, {r^2, r^8}, {r^10, r^6}, {r^16, r^4}, {r^12, r^14}}
+X_9:	{{1}, {mu_0}, {mu_1, lambda}, {chi_15, chi_8, chi_9, chi_2}, {chi_6, chi_7, chi_11, chi_10}, {chi_13, chi_1, chi_16, chi_4}, {chi_12, chi_5, chi_14, chi_3}}
+
+K_10:	{{e}, {r^17, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {s}, {r^16, r^2, r^4, r^8}, {r^12, r^14, r^10, r^6}}
+X_10:	{{1}, {mu_0}, {mu_1, lambda}, {chi_8, chi_16, chi_4, chi_13, chi_9, chi_2, chi_15, chi_1}, {chi_11, chi_6, chi_5, chi_14, chi_3, chi_10, chi_12, chi_7}}
+
+K_11:	{{e}, {r^17, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {s}, {r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}}
+X_11:	{{1}, {mu_0}, {mu_1, lambda}, {chi_8, chi_11, chi_16, chi_4, chi_6, chi_5, chi_13, chi_14, chi_3, chi_9, chi_2, chi_10, chi_12, chi_15, chi_1, chi_7}}
+
+K_13:	{{e}, {r^17, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {s, r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}}
+X_13:	{{1}, {mu_0}, {mu_1, lambda, chi_8, chi_11, chi_16, chi_4, chi_6, chi_5, chi_13, chi_14, chi_3, chi_9, chi_2, chi_10, chi_12, chi_15, chi_1, chi_7}}
+
+K_23:	{{e}, {r^17, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^2, r^8}, {r^10, r^6}, {r^16, r^4}, {r^12, r^14}}
+X_23:	{{1}, {mu_0, lambda}, {mu_1}, {chi_15, chi_8, chi_9, chi_2}, {chi_6, chi_7, chi_11, chi_10}, {chi_13, chi_1, chi_16, chi_4}, {chi_12, chi_5, chi_14, chi_3}}
+
+K_24:	{{e}, {r^17, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^16, r^2, r^4, r^8}, {r^12, r^14, r^10, r^6}}
+X_24:	{{1}, {mu_0, lambda}, {mu_1}, {chi_8, chi_16, chi_4, chi_13, chi_9, chi_2, chi_15, chi_1}, {chi_11, chi_6, chi_5, chi_14, chi_3, chi_10, chi_12, chi_7}}
+
+K_25:	{{e}, {r^17, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr}, {r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}}
+X_25:	{{1}, {mu_0, lambda}, {mu_1}, {chi_8, chi_11, chi_16, chi_4, chi_6, chi_5, chi_13, chi_14, chi_3, chi_9, chi_2, chi_10, chi_12, chi_15, chi_1, chi_7}}
+
+K_37:	{{e}, {r^17, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15}, {sr, r^2, r^6, r^4, r^8, r^12, r^16, r^14, r^10}}
+X_37:	{{1}, {mu_0, lambda, chi_8, chi_11, chi_16, chi_4, chi_6, chi_5, chi_13, chi_14, chi_3, chi_9, chi_2, chi_10, chi_12, chi_15, chi_1, chi_7}, {mu_1}}
+
+D72
+
+K_45:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^6}, {r^4}, {r^8}, {r^16}, {r^2}, {r^10}, {r^14}}
+X_45:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}, {chi_3, chi_15}, {chi_13, chi_5}, {chi_17, chi_1}, {chi_7, chi_11}}
+
+K_80:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^6}, {r^4}, {r^8}, {r^16}, {r^2}, {r^10}, {r^14}}
+X_80:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}, {chi_3, chi_15}, {chi_13, chi_5}, {chi_17, chi_1}, {chi_7, chi_11}}
+
+K_46:	{{e}, {r^18, r^6}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^4}, {r^8}, {r^16}, {r^2, r^10, r^14}}
+X_46:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}, {chi_3, chi_15}}
+
+K_55:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^4}, {r^8}, {r^16}}
+X_55:	{{1}, {mu_0}, {lambda, mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_9}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}}
+
+K_69:	{{e}, {r^18, s, r^6, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^4}, {r^8}, {r^16}}
+X_69:	{{1}, {mu_0}, {lambda, mu_1, chi_9}, {chi_6, chi_12, chi_3, chi_15}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}}
+
+K_81:	{{e}, {r^18, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^4}, {r^8}, {r^16}, {r^2, r^10, r^14}}
+X_81:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}, {chi_3, chi_15}}
+
+K_90:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^4}, {r^8}, {r^16}}
+X_90:	{{1}, {mu_0, lambda}, {mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_9}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}}
+
+K_166:	{{e}, {r^18, sr, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^4}, {r^8}, {r^16}}
+X_166:	{{1}, {mu_0, lambda, chi_9}, {mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_8, chi_17, chi_1, chi_10}, {chi_14, chi_4, chi_13, chi_5}, {chi_7, chi_16, chi_2, chi_11}}
+
+K_47:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^6}, {r^8, r^16, r^4}, {r^2, r^10, r^14}}
+X_47:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_3, chi_15}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_48:	{{e}, {r^18, r^6}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^8, r^16, r^4}, {r^2, r^10, r^14}}
+X_48:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_3, chi_15}}
+
+K_56:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^8, r^16, r^4}}
+X_56:	{{1}, {mu_0}, {lambda, mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_70:	{{e}, {r^18, s, r^6, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^8, r^16, r^4}}
+X_70:	{{1}, {mu_0}, {lambda, mu_1, chi_9}, {chi_6, chi_12, chi_3, chi_15}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_82:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^6}, {r^8, r^16, r^4}, {r^2, r^10, r^14}}
+X_82:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_3, chi_15}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_83:	{{e}, {r^18, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^8, r^16, r^4}, {r^2, r^10, r^14}}
+X_83:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_3, chi_15}}
+
+K_91:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^8, r^16, r^4}}
+X_91:	{{1}, {mu_0, lambda}, {mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_9}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_167:	{{e}, {r^18, sr, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^8, r^16, r^4}}
+X_167:	{{1}, {mu_0, lambda, chi_9}, {mu_1}, {chi_6, chi_12, chi_3, chi_15}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_58:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^8, r^16, r^12, r^4}, {r^6, r^2, r^10, r^14}}
+X_58:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_9}, {chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_60:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^8, r^16, r^12, r^4}}
+X_60:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_9}}
+
+K_71:	{{e}, {r^18, s, r^6, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^8, r^16, r^12, r^4}}
+X_71:	{{1}, {mu_0}, {lambda, mu_1, chi_9}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_93:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^8, r^16, r^12, r^4}, {r^6, r^2, r^10, r^14}}
+X_93:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_9}, {chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_95:	{{e}, {r^18, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^8, r^16, r^12, r^4}}
+X_95:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_9}}
+
+K_168:	{{e}, {r^18, sr, r^6, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^8, r^16, r^12, r^4}}
+X_168:	{{1}, {mu_0, lambda, chi_9}, {mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_49:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^6}, {r^14, r^4}, {r^8, r^10}, {r^16, r^2}}
+X_49:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_84:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^6}, {r^14, r^4}, {r^8, r^10}, {r^16, r^2}}
+X_84:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_52:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12, r^6}, {r^14, r^4}, {r^8, r^10}, {r^16, r^2}}
+X_52:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}}
+
+K_87:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12, r^6}, {r^14, r^4}, {r^8, r^10}, {r^16, r^2}}
+X_87:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_8, chi_10}, {chi_4, chi_14}, {chi_16, chi_2}}
+
+K_50:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^6}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_50:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_51:	{{e}, {r^18, r^6}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_51:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_57:	{{e}, {r^18, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}}
+X_57:	{{1}, {mu_0}, {lambda, mu_1}, {chi_6, chi_12, chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_85:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^6}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_85:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_86:	{{e}, {r^18, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_86:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_92:	{{e}, {r^18, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12}}
+X_92:	{{1}, {mu_0, lambda}, {mu_1}, {chi_6, chi_12, chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_53:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12, r^6}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_53:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_54:	{{e}, {r^18, r^12, r^6}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_54:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_88:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12, r^6}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_88:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_89:	{{e}, {r^18, r^12, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^4, r^8, r^16, r^2, r^10, r^14}}
+X_89:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_59:	{{e}, {r^18}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}}
+X_59:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_61:	{{e}, {r^18, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}}
+X_61:	{{1}, {mu_0}, {lambda, mu_1}, {chi_12, chi_9, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_94:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}, {r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}}
+X_94:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_96:	{{e}, {r^18, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr}}
+X_96:	{{1}, {mu_0, lambda}, {mu_1}, {chi_12, chi_9, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_62:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12}, {r^9}, {r^6}, {r^3}, {r^15}}
+X_62:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_15, chi_3}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}, {chi_17, chi_7, chi_5}, {chi_11, chi_13, chi_1}}
+
+K_63:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12}, {r^9}, {r^6}, {r^3, r^15}}
+X_63:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_15, chi_3}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_64:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12}, {r^3, r^15, r^9}, {r^6}}
+X_64:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_65:	{{e}, {r^18, r^6}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12}, {r^3, r^15, r^9}}
+X_65:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_72:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}, {r^6}}
+X_72:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_73:	{{e}, {r^18, r^6}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}}
+X_73:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_6}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_77:	{{e}, {r^18, s, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}}
+X_77:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_9, chi_6, chi_3, chi_15}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_66:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12, r^6}, {r^9}, {r^3, r^15}}
+X_66:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}}
+
+K_67:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^12, r^6}, {r^3, r^15, r^9}}
+X_67:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_68:	{{e}, {r^18, r^12, r^6}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {r^5, r^7, r^11, sr, r^17, r^13, r^1}, {r^3, r^15, r^9}}
+X_68:	{{1}, {mu_0}, {lambda, chi_12}, {mu_1, chi_6}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_74:	{{e}, {r^18}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12, r^6}}
+X_74:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_6}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_75:	{{e}, {r^18, r^12, r^6}, {s, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}}
+X_75:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_6}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_76:	{{e}, {r^18}, {s, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^9}}
+X_76:	{{1}, {mu_0}, {chi_8, chi_4, lambda, chi_12, chi_16}, {mu_1, chi_14, chi_2, chi_6, chi_10}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_78:	{{e}, {r^18}, {s, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}}
+X_78:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_79:	{{e}, {r^18, s, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {sr, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}}
+X_79:	{{1}, {mu_0}, {lambda, mu_1, chi_12, chi_9, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_142:	{{e}, {r^18}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}, {r^9}, {r^6}, {r^3}, {r^15}}
+X_142:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}, {chi_17, chi_7, chi_5}, {chi_11, chi_13, chi_1}}
+
+K_143:	{{e}, {r^18}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}, {r^9}, {r^6}, {r^3, r^15}}
+X_143:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_144:	{{e}, {r^18}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}, {r^3, r^15, r^9}, {r^6}}
+X_144:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_145:	{{e}, {r^18, r^6}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}, {r^3, r^15, r^9}}
+X_145:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_197:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}, {r^6}}
+X_197:	{{1}, {mu_0, lambda, chi_12, chi_6}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {chi_17, chi_7, chi_11, chi_13, chi_1, chi_5}}
+
+K_198:	{{e}, {r^18, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12}}
+X_198:	{{1}, {mu_0, lambda, chi_12, chi_6}, {mu_1}, {chi_9, chi_15, chi_3}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_220:	{{e}, {r^18, sr, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {r^12}}
+X_220:	{{1}, {mu_0, lambda, chi_12, chi_9, chi_6, chi_3, chi_15}, {mu_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_146:	{{e}, {r^18}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12, r^6}, {r^9}, {r^3, r^15}}
+X_146:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_14, chi_2, chi_10}, {chi_8, chi_4, chi_16}}
+
+K_147:	{{e}, {r^18}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12, r^6}, {r^3, r^15, r^9}}
+X_147:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_148:	{{e}, {r^18, r^12, r^6}, {r^5, r^7, s, r^13, r^17, r^11, r^1}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^3, r^15, r^9}}
+X_148:	{{1}, {mu_0, chi_6}, {lambda, chi_12}, {mu_1}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_199:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}, {r^12, r^6}}
+X_199:	{{1}, {mu_0, lambda, chi_12, chi_6}, {mu_1}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}}
+
+K_200:	{{e}, {r^18, r^12, r^6}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^4, r^8, r^16, r^2, r^10, r^14}}
+X_200:	{{1}, {mu_0, lambda, chi_12, chi_6}, {mu_1}, {chi_9, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_209:	{{e}, {r^18}, {s, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {r^9}}
+X_209:	{{1}, {mu_0, chi_14, chi_2, chi_6, chi_10}, {chi_8, chi_4, lambda, chi_12, chi_16}, {mu_1}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_225:	{{e}, {r^18}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}, {sr, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}}
+X_225:	{{1}, {mu_0, lambda, chi_12, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2}, {mu_1}, {chi_9, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}}
+
+K_235:	{{e}, {r^18, sr, r^12, r^6, r^4, r^8, r^16, r^2, r^10, r^14}, {s, r^9, r^3, r^15, r^1, r^5, r^7, r^11, r^13, r^17}}
+X_235:	{{1}, {mu_0, lambda, chi_12, chi_9, chi_6, chi_10, chi_8, chi_4, chi_16, chi_14, chi_2, chi_3, chi_15, chi_5, chi_17, chi_7, chi_11, chi_13, chi_1}, {mu_1}}
+
+D76
+
+K_6:	{{e}, {r^19, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {s}, {r^2}, {r^4}, {r^8}, {r^12}, {r^16}, {r^18}, {r^14}, {r^10}, {r^6}}
+X_6:	{{1}, {mu_0}, {lambda, mu_1}, {chi_2, chi_17}, {chi_10, chi_9}, {chi_11, chi_8}, {chi_5, chi_14}, {chi_7, chi_12}, {chi_15, chi_4}, {chi_3, chi_16}, {chi_6, chi_13}, {chi_18, chi_1}}
+
+K_11:	{{e}, {r^19, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {sr}, {r^2}, {r^4}, {r^8}, {r^12}, {r^16}, {r^18}, {r^14}, {r^10}, {r^6}}
+X_11:	{{1}, {mu_0, lambda}, {mu_1}, {chi_2, chi_17}, {chi_10, chi_9}, {chi_11, chi_8}, {chi_5, chi_14}, {chi_7, chi_12}, {chi_15, chi_4}, {chi_3, chi_16}, {chi_6, chi_13}, {chi_18, chi_1}}
+
+K_7:	{{e}, {r^19, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {s}, {r^16, r^14, r^2}, {r^10, r^6, r^4}, {r^18, r^8, r^12}}
+X_7:	{{1}, {mu_0}, {lambda, mu_1}, {chi_14, chi_16, chi_2, chi_5, chi_3, chi_17}, {chi_6, chi_10, chi_9, chi_15, chi_4, chi_13}, {chi_18, chi_1, chi_12, chi_8, chi_7, chi_11}}
+
+K_12:	{{e}, {r^19, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {sr}, {r^16, r^14, r^2}, {r^10, r^6, r^4}, {r^18, r^8, r^12}}
+X_12:	{{1}, {mu_0, lambda}, {mu_1}, {chi_14, chi_16, chi_2, chi_5, chi_3, chi_17}, {chi_6, chi_10, chi_9, chi_15, chi_4, chi_13}, {chi_18, chi_1, chi_12, chi_8, chi_7, chi_11}}
+
+K_8:	{{e}, {r^19, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {s}, {r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}}
+X_8:	{{1}, {mu_0}, {lambda, mu_1}, {chi_2, chi_10, chi_9, chi_8, chi_5, chi_7, chi_15, chi_3, chi_17, chi_4, chi_11, chi_13, chi_18, chi_6, chi_14, chi_16, chi_1, chi_12}}
+
+K_13:	{{e}, {r^19, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {sr}, {r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}}
+X_13:	{{1}, {mu_0, lambda}, {mu_1}, {chi_2, chi_10, chi_9, chi_8, chi_5, chi_7, chi_15, chi_3, chi_17, chi_4, chi_11, chi_13, chi_18, chi_6, chi_14, chi_16, chi_1, chi_12}}
+
+K_9:	{{e}, {r^19}, {s, r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}, {sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}}
+X_9:	{{1}, {mu_0}, {lambda, chi_2, chi_10, chi_8, chi_4, chi_18, chi_6, chi_14, chi_16, chi_12}, {mu_1, chi_9, chi_5, chi_7, chi_15, chi_3, chi_17, chi_11, chi_13, chi_1}}
+
+K_10:	{{e}, {r^19, sr, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {s, r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}}
+X_10:	{{1}, {mu_0}, {lambda, mu_1, chi_2, chi_10, chi_9, chi_8, chi_5, chi_7, chi_15, chi_3, chi_17, chi_4, chi_11, chi_13, chi_18, chi_6, chi_14, chi_16, chi_1, chi_12}}
+
+K_23:	{{e}, {r^19}, {s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {sr, r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}}
+X_23:	{{1}, {mu_0, chi_9, chi_5, chi_7, chi_15, chi_3, chi_17, chi_11, chi_13, chi_1}, {lambda, chi_2, chi_10, chi_8, chi_4, chi_18, chi_6, chi_14, chi_16, chi_12}, {mu_1}}
+
+K_28:	{{e}, {r^19, s, r^1, r^3, r^5, r^7, r^9, r^11, r^13, r^15, r^17}, {sr, r^2, r^4, r^8, r^12, r^16, r^18, r^14, r^10, r^6}}
+X_28:	{{1}, {mu_0, lambda, chi_2, chi_10, chi_9, chi_8, chi_5, chi_7, chi_15, chi_3, chi_17, chi_4, chi_11, chi_13, chi_18, chi_6, chi_14, chi_16, chi_1, chi_12}, {mu_1}}
+
+D80
+
+K_215:	{{e}, {r^20}, {s, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^5}, {r^15}}
+X_215:	{{1}, {chi_8, lambda, chi_16}, {mu_0}, {mu_1, chi_12, chi_4}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_9, chi_7, chi_1, chi_17}, {chi_3, chi_11, chi_5, chi_19, chi_13}}
+
+K_218:	{{e}, {r^20}, {s, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {r^10}, {r^5}, {r^15}}
+X_218:	{{1}, {chi_8, lambda, chi_16}, {mu_0, chi_12, chi_4}, {mu_1}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_9, chi_7, chi_1, chi_17}, {chi_3, chi_11, chi_5, chi_19, chi_13}}
+
+K_216:	{{e}, {r^20}, {s, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^15, r^5}}
+X_216:	{{1}, {chi_8, lambda, chi_16}, {mu_0}, {mu_1, chi_12, chi_4}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_219:	{{e}, {r^20}, {s, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {r^10}, {r^15, r^5}}
+X_219:	{{1}, {chi_8, lambda, chi_16}, {mu_0, chi_12, chi_4}, {mu_1}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_217:	{{e}, {r^20, r^10}, {s, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^15, r^5}}
+X_217:	{{1}, {chi_8, lambda, chi_16}, {mu_0}, {mu_1, chi_12, chi_4}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_220:	{{e}, {r^20, r^10}, {s, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {r^15, r^5}}
+X_220:	{{1}, {chi_8, lambda, chi_16}, {mu_0, chi_12, chi_4}, {mu_1}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_135:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^8}, {r^16}, {r^4}, {r^12}, {r^2}, {r^6}, {r^14}, {r^18}}
+X_135:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_6}, {chi_2, chi_18}, {chi_7, chi_13}, {chi_3, chi_17}, {chi_11, chi_9}, {chi_19, chi_1}}
+
+K_136:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^8}, {r^16}, {r^4}, {r^12}, {r^2, r^18}, {r^6, r^14}}
+X_136:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_6}, {chi_2, chi_18}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_137:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^12, r^8}, {r^4, r^16}, {r^2, r^18}, {r^6, r^14}}
+X_137:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_14, chi_6}, {chi_2, chi_18}}
+
+K_151:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^12, r^2, r^8, r^18}, {r^4, r^6, r^14, r^16}}
+X_151:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_138:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^8, r^16}, {r^4, r^12}, {r^2, r^6, r^14, r^18}}
+X_138:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_2, chi_18, chi_6}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_139:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^4, r^12, r^8, r^16}, {r^2, r^6, r^14, r^18}}
+X_139:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_14, chi_2, chi_18, chi_6}}
+
+K_152:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10}, {r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_152:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_239:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {r^10}}
+X_239:	{{1}, {lambda, mu_0, chi_12, chi_4, chi_16, chi_8}, {mu_1}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_140:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}, {r^4}, {r^12}}
+X_140:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_141:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^12, r^8}, {r^4, r^16}}
+X_141:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_142:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}, {r^4, r^12}}
+X_142:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_143:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^4, r^12, r^8, r^16}}
+X_143:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_153:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_153:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_144:	{{e}, {r^20, r^12, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}}
+X_144:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}, {chi_15, chi_5}}
+
+K_145:	{{e}, {r^20, r^12, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}}
+X_145:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_15, chi_5}}
+
+K_146:	{{e}, {r^20, r^12, r^8, r^16, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^10, r^2, r^6, r^14, r^18}}
+X_146:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_201:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}, {r^4}, {r^12}}
+X_201:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_202:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^12, r^8}, {r^4, r^16}}
+X_202:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_203:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}, {r^4, r^12}}
+X_203:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_204:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^4, r^12, r^8, r^16}}
+X_204:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_245:	{{e}, {r^20}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_245:	{{1}, {lambda, mu_0, chi_10, chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {mu_1}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_205:	{{e}, {r^20, r^12, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}}
+X_205:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}, {chi_15, chi_5}}
+
+K_206:	{{e}, {r^20, r^12, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}}
+X_206:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_15, chi_5}}
+
+K_207:	{{e}, {r^20, r^12, r^8, r^16, r^4}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^10, r^2, r^6, r^14, r^18}}
+X_207:	{{1}, {lambda, mu_0, chi_10}, {mu_1}, {chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_147:	{{e}, {r^20, r^10}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^8}, {r^16}, {r^4, r^6, r^14}, {r^12, r^2, r^18}}
+X_147:	{{1}, {lambda, mu_0}, {mu_1}, {chi_15, chi_5, chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_11, chi_9, chi_19, chi_1, chi_14, chi_6}, {chi_3, chi_7, chi_17, chi_2, chi_18, chi_13}}
+
+K_148:	{{e}, {r^20, r^10}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^8, r^16}, {r^4, r^12, r^2, r^6, r^14, r^18}}
+X_148:	{{1}, {lambda, mu_0}, {mu_1}, {chi_15, chi_5, chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_149:	{{e}, {r^20, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^8}, {r^16}}
+X_149:	{{1}, {lambda, mu_0}, {mu_1}, {chi_15, chi_5, chi_10}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}}
+
+K_150:	{{e}, {r^20, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^8, r^16}}
+X_150:	{{1}, {lambda, mu_0}, {mu_1}, {chi_15, chi_5, chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_233:	{{e}, {r^20, sr, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}}
+X_233:	{{1}, {lambda, mu_0, chi_10, chi_5, chi_15}, {mu_1}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}}
+
+K_234:	{{e}, {r^20, sr, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}}
+X_234:	{{1}, {lambda, mu_0, chi_10, chi_5, chi_15}, {mu_1}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_154:	{{e}, {r^20, r^10}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^12, r^2, r^8, r^18}, {r^4, r^6, r^14, r^16}}
+X_154:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_8, chi_12}, {chi_4, chi_16}}
+
+K_155:	{{e}, {r^20, r^10}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}, {r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_155:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_8, chi_12, chi_4, chi_16}}
+
+K_156:	{{e}, {r^20, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr}}
+X_156:	{{1}, {lambda, mu_0}, {mu_1}, {chi_10, chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_240:	{{e}, {r^20, r^10}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {sr, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_240:	{{1}, {lambda, mu_0, chi_12, chi_4, chi_16, chi_8}, {mu_1}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_248:	{{e}, {r^20, sr, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {s, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_248:	{{1}, {lambda, mu_0, chi_10, chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {mu_1}}
+
+K_157:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^8}, {r^16}, {r^4}, {r^12}, {r^2}, {r^6}, {r^14}, {r^18}}
+X_157:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_6}, {chi_2, chi_18}, {chi_7, chi_13}, {chi_3, chi_17}, {chi_11, chi_9}, {chi_19, chi_1}}
+
+K_158:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^8}, {r^16}, {r^4}, {r^12}, {r^2, r^18}, {r^6, r^14}}
+X_158:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_6}, {chi_2, chi_18}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_159:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^12, r^8}, {r^4, r^16}, {r^2, r^18}, {r^6, r^14}}
+X_159:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_14, chi_6}, {chi_2, chi_18}}
+
+K_173:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^12, r^2, r^8, r^18}, {r^4, r^6, r^14, r^16}}
+X_173:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_160:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^8, r^16}, {r^4, r^12}, {r^2, r^6, r^14, r^18}}
+X_160:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5}, {chi_14, chi_2, chi_18, chi_6}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_161:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^4, r^12, r^8, r^16}, {r^2, r^6, r^14, r^18}}
+X_161:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_14, chi_2, chi_18, chi_6}}
+
+K_174:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}, {r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_174:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_8, chi_12, chi_4, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_241:	{{e}, {r^20}, {s, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10}}
+X_241:	{{1}, {lambda, mu_1, chi_12, chi_4, chi_16, chi_8}, {mu_0}, {chi_10, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_162:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}, {r^4}, {r^12}}
+X_162:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_163:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^12, r^8}, {r^4, r^16}}
+X_163:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_164:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}, {r^4, r^12}}
+X_164:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_165:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^4, r^12, r^8, r^16}}
+X_165:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_175:	{{e}, {r^20}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_175:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_166:	{{e}, {r^20, r^12, r^4}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^8}, {r^16}}
+X_166:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}, {chi_15, chi_5}}
+
+K_167:	{{e}, {r^20, r^12, r^4}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}, {r^8, r^16}}
+X_167:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_15, chi_5}}
+
+K_168:	{{e}, {r^20, r^12, r^8, r^16, r^4}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^10, r^2, r^6, r^14, r^18}}
+X_168:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_208:	{{e}, {r^20}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}, {r^4}, {r^12}}
+X_208:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5}, {chi_3, chi_7, chi_17, chi_13}, {chi_11, chi_9, chi_19, chi_1}}
+
+K_209:	{{e}, {r^20}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^12, r^8}, {r^4, r^16}}
+X_209:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_8, chi_2, chi_12, chi_18}, {chi_14, chi_4, chi_6, chi_16}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_210:	{{e}, {r^20}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}, {r^4, r^12}}
+X_210:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5}, {chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_211:	{{e}, {r^20}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^4, r^12, r^8, r^16}}
+X_211:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_246:	{{e}, {r^20}, {s, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_246:	{{1}, {lambda, mu_1, chi_10, chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6}, {mu_0}, {chi_15, chi_5, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_212:	{{e}, {r^20, r^12, r^4}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}}
+X_212:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}, {chi_15, chi_5}}
+
+K_213:	{{e}, {r^20, r^12, r^4}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}}
+X_213:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_15, chi_5}}
+
+K_214:	{{e}, {r^20, r^12, r^8, r^16, r^4}, {s, r^10, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_214:	{{1}, {lambda, mu_1, chi_10}, {mu_0}, {chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_169:	{{e}, {r^20, r^10}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}, {r^4, r^6, r^14}, {r^12, r^2, r^18}}
+X_169:	{{1}, {lambda, mu_1}, {mu_0}, {chi_15, chi_5, chi_10}, {chi_8, chi_12}, {chi_4, chi_16}, {chi_11, chi_9, chi_19, chi_1, chi_14, chi_6}, {chi_3, chi_7, chi_17, chi_2, chi_18, chi_13}}
+
+K_170:	{{e}, {r^20, r^10}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}, {r^4, r^12, r^2, r^6, r^14, r^18}}
+X_170:	{{1}, {lambda, mu_1}, {mu_0}, {chi_15, chi_5, chi_10}, {chi_8, chi_12, chi_4, chi_16}, {chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_171:	{{e}, {r^20, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}}
+X_171:	{{1}, {lambda, mu_1}, {mu_0}, {chi_15, chi_5, chi_10}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}}
+
+K_172:	{{e}, {r^20, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}}
+X_172:	{{1}, {lambda, mu_1}, {mu_0}, {chi_15, chi_5, chi_10}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_235:	{{e}, {r^20, s, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8}, {r^16}}
+X_235:	{{1}, {lambda, chi_5, mu_1, chi_10, chi_15}, {mu_0}, {chi_12, chi_8, chi_2, chi_18, chi_13, chi_3, chi_7, chi_17}, {chi_4, chi_16, chi_14, chi_6, chi_11, chi_9, chi_19, chi_1}}
+
+K_236:	{{e}, {r^20, s, r^10, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16}}
+X_236:	{{1}, {lambda, chi_5, mu_1, chi_10, chi_15}, {mu_0}, {chi_12, chi_4, chi_16, chi_8, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_176:	{{e}, {r^20, r^10}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^12, r^2, r^8, r^18}, {r^4, r^6, r^14, r^16}}
+X_176:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_8, chi_12}, {chi_4, chi_16}}
+
+K_177:	{{e}, {r^20, r^10}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}, {r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}}
+X_177:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {chi_8, chi_12, chi_4, chi_16}}
+
+K_178:	{{e}, {r^20, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {s}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_178:	{{1}, {lambda, mu_1}, {mu_0}, {chi_10, chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_242:	{{e}, {r^20, r^10}, {s, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_242:	{{1}, {lambda, mu_1, chi_12, chi_4, chi_16, chi_8}, {mu_0}, {chi_10, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}}
+
+K_249:	{{e}, {r^20, s, r^10, r^8, r^16, r^4, r^12, r^2, r^6, r^14, r^18}, {sr, r^5, r^15, r^1, r^3, r^7, r^9, r^11, r^13, r^17, r^19}}
+X_249:	{{1}, {lambda, mu_1, chi_10, chi_12, chi_4, chi_16, chi_8, chi_15, chi_5, chi_14, chi_2, chi_18, chi_6, chi_13, chi_3, chi_11, chi_9, chi_19, chi_7, chi_1, chi_17}, {mu_0}}
+
+D84
+
+K_39:	{{e}, {r^21}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {r^6}, {r^18}, {r^12}, {r^3}, {r^9}, {r^15}}
+X_39:	{{1}, {mu_0}, {mu_1, chi_7}, {lambda, chi_14}, {chi_2, chi_12, chi_16}, {chi_17, chi_11, chi_3}, {chi_18, chi_4, chi_10}, {chi_9, chi_19, chi_5}, {chi_6, chi_8, chi_20}, {chi_15, chi_1, chi_13}}
+
+K_89:	{{e}, {r^21}, {s, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^6}, {r^18}, {r^12}, {r^3}, {r^9}, {r^15}}
+X_89:	{{1}, {mu_0, chi_7}, {mu_1}, {lambda, chi_14}, {chi_2, chi_12, chi_16}, {chi_17, chi_11, chi_3}, {chi_18, chi_4, chi_10}, {chi_9, chi_19, chi_5}, {chi_6, chi_8, chi_20}, {chi_15, chi_1, chi_13}}
+
+K_40:	{{e}, {r^21, r^9, r^15, r^3}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {r^6}, {r^18}, {r^12}}
+X_40:	{{1}, {mu_0}, {mu_1, chi_7}, {lambda, chi_14}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_90:	{{e}, {r^21, r^9, r^15, r^3}, {s, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^6}, {r^18}, {r^12}}
+X_90:	{{1}, {mu_0, chi_7}, {mu_1}, {lambda, chi_14}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_41:	{{e}, {r^21}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {r^12, r^6, r^18}, {r^3, r^9, r^15}}
+X_41:	{{1}, {mu_0}, {mu_1, chi_7}, {lambda, chi_14}, {chi_12, chi_18, chi_6, chi_2, chi_10, chi_4, chi_20, chi_8, chi_16}, {chi_3, chi_9, chi_15, chi_11, chi_13, chi_17, chi_1, chi_19, chi_5}}
+
+K_91:	{{e}, {r^21}, {s, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^12, r^6, r^18}, {r^3, r^9, r^15}}
+X_91:	{{1}, {mu_0, chi_7}, {mu_1}, {lambda, chi_14}, {chi_12, chi_18, chi_6, chi_2, chi_10, chi_4, chi_20, chi_8, chi_16}, {chi_3, chi_9, chi_15, chi_11, chi_13, chi_17, chi_1, chi_19, chi_5}}
+
+K_45:	{{e}, {r^21}, {s, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {r^14}, {r^7}}
+X_45:	{{1}, {mu_0}, {chi_9, mu_1, chi_15, chi_3}, {chi_18, chi_6, lambda, chi_12}, {chi_17, chi_1, chi_7, chi_19, chi_5, chi_11, chi_13}, {chi_4, chi_20, chi_8, chi_14, chi_16, chi_2, chi_10}}
+
+K_48:	{{e}, {r^21}, {s, r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}}
+X_48:	{{1}, {mu_0}, {mu_1, chi_7, chi_3, chi_9, chi_15, chi_11, chi_13, chi_17, chi_1, chi_19, chi_5}, {lambda, chi_14, chi_12, chi_18, chi_6, chi_2, chi_10, chi_4, chi_20, chi_8, chi_16}}
+
+K_120:	{{e}, {r^21}, {s, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {r^14}, {r^7}}
+X_120:	{{1}, {chi_3, mu_0, chi_15, chi_9}, {mu_1}, {chi_18, chi_6, lambda, chi_12}, {chi_17, chi_1, chi_7, chi_19, chi_5, chi_11, chi_13}, {chi_4, chi_20, chi_8, chi_14, chi_16, chi_2, chi_10}}
+
+K_138:	{{e}, {r^21}, {s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_138:	{{1}, {mu_0, chi_7, chi_3, chi_9, chi_15, chi_11, chi_13, chi_17, chi_1, chi_19, chi_5}, {mu_1}, {lambda, chi_14, chi_12, chi_18, chi_6, chi_2, chi_10, chi_4, chi_20, chi_8, chi_16}}
+
+K_42:	{{e}, {r^21, r^9, r^15, r^3}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {r^12, r^6, r^18}}
+X_42:	{{1}, {mu_0}, {mu_1, chi_7}, {lambda, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_92:	{{e}, {r^21, r^9, r^15, r^3}, {s, r^7, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^12, r^6, r^18}}
+X_92:	{{1}, {mu_0, chi_7}, {mu_1}, {lambda, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_30:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^6}, {r^18}, {r^12}, {r^2}, {r^10}, {r^4}, {r^8}, {r^16}, {r^20}}
+X_30:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}, {chi_2, chi_19}, {chi_11, chi_10}, {chi_8, chi_13}, {chi_4, chi_17}, {chi_20, chi_1}, {chi_5, chi_16}}
+
+K_31:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^6}, {r^18}, {r^12}, {r^16, r^2}, {r^10, r^4}, {r^20, r^8}}
+X_31:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}, {chi_2, chi_19, chi_5, chi_16}, {chi_4, chi_17, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_13}}
+
+K_34:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^16, r^20, r^14, r^2, r^10, r^4, r^8}, {r^6}, {r^18}, {r^12}}
+X_34:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_43:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^6}, {r^18}, {r^12}}
+X_43:	{{1}, {mu_0}, {mu_1, lambda, chi_7, chi_14}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_36:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^20, r^6, r^8}, {r^10, r^4, r^18}, {r^12, r^16, r^2}}
+X_36:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}}
+
+K_80:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^6}, {r^18}, {r^12}, {r^2}, {r^10}, {r^4}, {r^8}, {r^16}, {r^20}}
+X_80:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}, {chi_2, chi_19}, {chi_11, chi_10}, {chi_8, chi_13}, {chi_4, chi_17}, {chi_20, chi_1}, {chi_5, chi_16}}
+
+K_81:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^6}, {r^18}, {r^12}, {r^16, r^2}, {r^10, r^4}, {r^20, r^8}}
+X_81:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}, {chi_2, chi_19, chi_5, chi_16}, {chi_4, chi_17, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_13}}
+
+K_84:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^16, r^20, r^14, r^2, r^10, r^4, r^8}, {r^6}, {r^18}, {r^12}}
+X_84:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_118:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^6}, {r^18}, {r^12}}
+X_118:	{{1}, {mu_0, lambda, chi_7, chi_14}, {mu_1}, {chi_19, chi_12, chi_16, chi_9, chi_5, chi_2}, {chi_4, chi_17, chi_3, chi_18, chi_11, chi_10}, {chi_20, chi_1, chi_8, chi_6, chi_15, chi_13}}
+
+K_86:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^20, r^6, r^8}, {r^10, r^4, r^18}, {r^12, r^16, r^2}}
+X_86:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}, {chi_9, chi_12}, {chi_18, chi_3}, {chi_6, chi_15}}
+
+K_46:	{{e}, {r^21, r^7}, {s, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {sr, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {r^14}}
+X_46:	{{1}, {mu_0}, {chi_9, mu_1, chi_15, chi_3}, {chi_18, chi_6, lambda, chi_12}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_121:	{{e}, {r^21, r^7}, {s, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {r^14}}
+X_121:	{{1}, {chi_3, mu_0, chi_15, chi_9}, {mu_1}, {chi_18, chi_6, lambda, chi_12}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_32:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^12, r^6, r^18}, {r^2, r^10, r^8}, {r^16, r^20, r^4}}
+X_32:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {chi_8, chi_19, chi_2, chi_11, chi_10, chi_13}, {chi_4, chi_17, chi_20, chi_1, chi_5, chi_16}}
+
+K_33:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^12, r^6, r^18}, {r^16, r^20, r^2, r^10, r^4, r^8}}
+X_33:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_35:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^16, r^20, r^14, r^2, r^10, r^4, r^8}, {r^12, r^6, r^18}}
+X_35:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_44:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^12, r^6, r^18}}
+X_44:	{{1}, {mu_0}, {mu_1, lambda, chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_37:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14}, {r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_37:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}}
+
+K_38:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s}, {r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_38:	{{1}, {mu_0}, {mu_1, lambda}, {chi_7, chi_14, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_47:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {r^14}}
+X_47:	{{1}, {mu_0}, {mu_1, lambda, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_49:	{{e}, {r^21, sr, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {s, r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_49:	{{1}, {mu_0}, {mu_1, lambda, chi_7, chi_14, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_82:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^12, r^6, r^18}, {r^2, r^10, r^8}, {r^16, r^20, r^4}}
+X_82:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {chi_8, chi_19, chi_2, chi_11, chi_10, chi_13}, {chi_4, chi_17, chi_20, chi_1, chi_5, chi_16}}
+
+K_83:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^12, r^6, r^18}, {r^16, r^20, r^2, r^10, r^4, r^8}}
+X_83:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_85:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^16, r^20, r^14, r^2, r^10, r^4, r^8}, {r^12, r^6, r^18}}
+X_85:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_119:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^2, r^10, r^4, r^8, r^16, r^20}, {r^12, r^6, r^18}}
+X_119:	{{1}, {mu_0, lambda, chi_7, chi_14}, {mu_1}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_87:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14}, {r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_87:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}, {chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}}
+
+K_88:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr}, {r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_88:	{{1}, {mu_0, lambda}, {mu_1}, {chi_7, chi_14, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_136:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}, {r^14}}
+X_136:	{{1}, {mu_0, lambda, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15}, {mu_1}, {chi_7, chi_14, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}}
+
+K_158:	{{e}, {r^21, s, r^7, r^3, r^9, r^15, r^1, r^5, r^11, r^13, r^17, r^19}, {sr, r^14, r^6, r^18, r^12, r^2, r^10, r^4, r^8, r^16, r^20}}
+X_158:	{{1}, {mu_0, lambda, chi_7, chi_14, chi_12, chi_3, chi_18, chi_9, chi_6, chi_15, chi_2, chi_11, chi_10, chi_13, chi_4, chi_17, chi_20, chi_1, chi_8, chi_19, chi_5, chi_16}, {mu_1}}
+

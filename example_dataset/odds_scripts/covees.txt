@@ -1,0 +1,78 @@
+D18
+SCT number 1
+K_1: {{e}, s<r>, {r^3, r^6}, {r^1, r^8, r^2, r^7, r^4, r^5}}
+X_1: {{1}, {lambda}, {chi_3}, {chi_2, chi_4, chi_1}}
+
+
+D30
+SCT number 6
+K_6: {{e}, s<r>, {r^5, r^10}, {r^3, r^12, r^6, r^9, r^1, r^14, r^2, r^13, r^4, r^11, r^7, r^8}}
+X_6: {{1}, {lambda}, {chi_7, chi_5, chi_1, chi_4, chi_2}, {chi_3, chi_6}}
+
+SCT number 3
+K_3: {{e}, s<r>, {r^7, r^8, r^5, r^10, r^1, r^14, r^2, r^13, r^4, r^11}, {r^3, r^12}, {r^6, r^9}}
+X_3: {{1}, {lambda}, {chi_5}, {chi_7, chi_3, chi_2}, {chi_6, chi_1, chi_4}}
+
+
+D42
+SCT number 7
+K_7: {{e}, s<r>, {r^7, r^14}, {r^3, r^18, r^9, r^12, r^6, r^15, r^1, r^20, r^2, r^19, r^4, r^17, r^6, r^15, r^8, r^13, r^10, r^11}}
+X_7: {{1}, {lambda}, {chi_7, chi_4, chi_5, chi_1, chi_2, chi_10, chi_8}, {chi_3, chi_9, chi_6}}
+
+SCT number 4
+K_4: {{e}, s<r>, {r^7, r^14, r^1, r^20, r^2, r^19, r^4, r^17, r^6, r^15, r^8, r^13, r^10, r^11}, {r^3, r^18}, {r^9, r^12}, {r^6, r^15}}
+X_4: {{1}, {lambda}, {chi_7}, {chi_10, chi_3, chi_4}, {chi_2, chi_9, chi_5}, {chi_1, chi_8, chi_6}}
+
+
+D50
+SCT number 4
+K_4: {{e}, s<r>, {r^5, r^20}, {r^15, r^10}, {r^1, r^24, r^2, r^23, r^3, r^22, r^4, r^21, r^6, r^19, r^7, r^18, r^8, r^17, r^9, r^16, r^11, r^14, r^12, r^13}}
+X_4: {{1}, {lambda}, {chi_5, chi_10}, {chi_11, chi_9, chi_4, chi_1, chi_6}, {chi_7, chi_8, chi_12, chi_3, chi_2}}
+
+
+D54
+SCT number 3
+K_3: {{e}, s<r>, {r^9, r^18}, {r^3, r^24}, {r^6, r^21}, {r^12, r^15}, {r^1, r^26, r^2, r^25, r^4, r^23, r^5, r^22, r^7, r^20, r^8, r^19, r^10, r^17, r^11, r^16, r^13, r^14}}
+X_3: {{1}, {lambda}, {chi_9}, {chi_6, chi_12, chi_3}, {chi_1, chi_10, chi_8}, {chi_7, chi_2, chi_11}, {chi_5, chi_13, chi_4}}
+
+
+D66
+SCT number 7
+K_7: {{e}, s<r>, {r^11, r^22}, {r^3, r^30, r^6, r^27, r^12, r^21, r^18, r^15, r^24, r^9, r^1, r^32, r^2, r^31, r^4, r^29, r^5, r^28, r^7, r^26, r^8, r^25, r^10, r^23, r^13, r^20, r^14, r^19, r^16, r^17}}
+X_7: {{1}, {lambda}, {chi_11, chi_14, chi_7, chi_8, chi_16, chi_2, chi_5, chi_10, chi_1, chi_4, chi_13}, {chi_3, chi_6, chi_15, chi_12, chi_9}}
+
+SCT number 2
+K_2: {{e}, s<r>, {r^11, r^22, r^1, r^32, r^2, r^31, r^4, r^29, r^5, r^28, r^7, r^26, r^8, r^25, r^10, r^23, r^13, r^20, r^14, r^19, r^16, r^17}, {r^3, r^30}, {r^6, r^27}, {r^12, r^21}, {r^18, r^15}, {r^24, r^9}}
+X_2: {{1}, {lambda}, {chi_11}, {chi_14, chi_8, chi_3}, {chi_16, chi_6, chi_5}, {chi_4, chi_7, chi_15}, {chi_12, chi_10, chi_1}, {chi_13, chi_2, chi_9}}
+
+
+D70
+SCT number 11
+K_11: {{e}, s<r>, {r^7, r^28}, {r^21, r^14}, {r^5, r^30, r^16, r^19, r^25, r^10, r^1, r^34, r^2, r^33, r^3, r^32, r^4, r^31, r^6, r^29, r^8, r^27, r^9, r^26, r^11, r^24, r^12, r^23, r^13, r^22, r^16, r^19, r^17, r^18}}
+X_11: {{1}, {lambda}, {chi_11, chi_6, chi_14, chi_4, chi_1, chi_16, chi_9}, {chi_7, chi_3, chi_8, chi_2, chi_13, chi_17, chi_12}, {chi_15, chi_10, chi_5}}
+
+SCT number 8
+K_8: {{e}, s<r>, {r^7, r^28, r^21, r^14, r^1, r^34, r^2, r^33, r^3, r^32, r^4, r^31, r^6, r^29, r^8, r^27, r^9, r^26, r^11, r^24, r^12, r^23, r^13, r^22, r^16, r^19, r^17, r^18}, {r^5, r^30}, {r^16, r^19}, {r^25, r^10}}
+X_8: {{1}, {lambda}, {chi_14, chi_7}, {chi_8, chi_15, chi_13, chi_1, chi_6}, {chi_11, chi_4, chi_3, chi_17, chi_10}, {chi_2, chi_16, chi_5, chi_12, chi_9}}
+
+
+D78
+SCT number 13
+K_13: {{e}, s<r>, {r^13, r^26}, {r^3, r^36, r^6, r^33, r^12, r^27, r^18, r^21, r^24, r^15, r^30, r^9, r^1, r^38, r^2, r^37, r^4, r^35, r^5, r^34, r^7, r^32, r^8, r^31, r^10, r^29, r^11, r^28, r^14, r^25, r^16, r^23, r^17, r^22, r^19, r^20}}
+X_13: {{1}, {lambda}, {chi_13, chi_4, chi_5, chi_2, chi_7, chi_1, chi_17, chi_8, chi_16, chi_10, chi_11, chi_19, chi_14}, {chi_15, chi_12, chi_9, chi_3, chi_6, chi_18}}
+
+SCT number 5
+K_5: {{e}, s<r>, {r^13, r^26, r^1, r^38, r^2, r^37, r^4, r^35, r^5, r^34, r^7, r^32, r^8, r^31, r^10, r^29, r^11, r^28, r^14, r^25, r^16, r^23, r^17, r^22, r^19, r^20}, {r^3, r^36}, {r^6, r^33}, {r^12, r^27}, {r^18, r^21}, {r^24, r^15}, {r^30, r^9}}
+X_5: {{1}, {lambda}, {chi_13}, {chi_15, chi_11, chi_2}, {chi_12, chi_14, chi_1}, {chi_4, chi_9, chi_17}, {chi_16, chi_10, chi_3}, {chi_19, chi_7, chi_6}, {chi_18, chi_5, chi_8}}
+
+
+D90
+SCT number 33
+K_33: {{e}, s<r>, {r^15, r^30}, {r^9, r^36, r^18, r^27, r^3, r^42, r^21, r^24, r^6, r^39, r^12, r^33, r^1, r^44, r^2, r^43, r^4, r^41, r^7, r^38, r^8, r^37, r^11, r^34, r^13, r^32, r^14, r^31, r^16, r^29, r^17, r^28, r^19, r^26, r^22, r^23}, {r^5, r^40}, {r^35, r^10}, {r^25, r^20}}
+X_33: {{1}, {lambda}, {chi_12, chi_3, chi_15, chi_21, chi_6}, {chi_9, chi_18}, {chi_13, chi_22, chi_5, chi_14, chi_4}, {chi_2, chi_16, chi_7, chi_20, chi_11}, {chi_1, chi_17, chi_19, chi_8, chi_10}}
+
+SCT number 16
+K_16: {{e}, s<r>, {r^15, r^30}, {r^9, r^36}, {r^18, r^27}, {r^5, r^40, r^35, r^10, r^25, r^20, r^1, r^44, r^2, r^43, r^4, r^41, r^7, r^38, r^8, r^37, r^11, r^34, r^13, r^32, r^14, r^31, r^16, r^29, r^17, r^28, r^19, r^26, r^22, r^23}, {r^3, r^42}, {r^21, r^24}, {r^6, r^39}, {r^12, r^33}}
+X_16: {{1}, {lambda}, {chi_15}, {chi_9, chi_6, chi_21}, {chi_12, chi_3, chi_18}, {chi_5, chi_20, chi_10}, {chi_13, chi_17, chi_2}, {chi_19, chi_4, chi_11}, {chi_22, chi_7, chi_8}, {chi_1, chi_14, chi_16}}
+
+
